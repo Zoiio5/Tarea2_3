@@ -34,8 +34,8 @@ Instala CLion u otro IDE compatible con CMake.
 Asegúrate de tener instalado el compilador MSVC o cualquier compatible con C++17.
 Abre el proyecto en CLion. El archivo CMakeLists.txt configurará automáticamente el entorno.
 
-Compilación del Proyecto
-Abre el proyecto en CLion o utiliza una terminal con CMake configurado.
+## Compilación del Proyecto
+1. Abre el proyecto en CLion o utiliza una terminal con CMake configurado.
 Ejecuta el comando para compilar:
 bash
 Copiar código
@@ -44,18 +44,18 @@ Los ejecutables se generarán en la carpeta cmake-build-debug (o similar).
 Ejecución del Proyecto
 Algoritmos en C++
 Navega a la carpeta donde se generaron los ejecutables:
-bash
-Copiar código
-cd cmake-build-debug
+  ```bash
+  Copiar código
+  cd cmake-build-debug
 Ejecuta el programa deseado:
 bash
 Copiar código
 ./nombre_del_programa
 Por ejemplo:
 
-bash
-Copiar código
-./algoritmo_fb
+  ```bash
+  Copiar código
+  ./algoritmo_fb
 Procesamiento y Visualización en Python
 Asegúrate de que el entorno virtual esté activado.
 Ejecuta el script de procesamiento de datos:
