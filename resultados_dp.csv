@@ -1,0 +1,5006 @@
+Caso,Tamaño,TiempoDP (µs),MemoriaTotal (bytes)
+Aleatorio,0,3,4
+Palindromo,0,2,4
+Repetidos,0,3,4
+Casi Idéntico,0,1,4
+Transposicion,0,4,4
+Aleatorio,1,2,16
+Palindromo,1,3,16
+Repetidos,1,7,16
+Casi Idéntico,1,3,16
+Transposicion,1,2,16
+Aleatorio,2,3,36
+Palindromo,2,10,36
+Repetidos,2,3,36
+Casi Idéntico,2,3,36
+Transposicion,2,2,36
+Aleatorio,3,2,64
+Palindromo,3,3,64
+Repetidos,3,2,64
+Casi Idéntico,3,3,64
+Transposicion,3,3,64
+Aleatorio,4,4,100
+Palindromo,4,3,100
+Repetidos,4,3,100
+Casi Idéntico,4,3,100
+Transposicion,4,3,100
+Aleatorio,5,3,144
+Palindromo,5,3,144
+Repetidos,5,4,144
+Casi Idéntico,5,3,144
+Transposicion,5,3,144
+Aleatorio,6,6,196
+Palindromo,6,5,196
+Repetidos,6,11,196
+Casi Idéntico,6,7,196
+Transposicion,6,6,196
+Aleatorio,7,7,256
+Palindromo,7,5,256
+Repetidos,7,5,256
+Casi Idéntico,7,7,196
+Transposicion,7,5,256
+Aleatorio,8,5,324
+Palindromo,8,7,324
+Repetidos,8,7,324
+Casi Idéntico,8,4,196
+Transposicion,8,6,324
+Aleatorio,9,7,400
+Palindromo,9,7,400
+Repetidos,9,8,400
+Casi Idéntico,9,5,196
+Transposicion,9,7,400
+Aleatorio,10,11,484
+Palindromo,10,7,484
+Repetidos,10,23,484
+Casi Idéntico,10,5,196
+Transposicion,10,11,484
+Aleatorio,11,10,576
+Palindromo,11,9,576
+Repetidos,11,11,576
+Casi Idéntico,11,5,196
+Transposicion,11,8,576
+Aleatorio,12,9,676
+Palindromo,12,8,676
+Repetidos,12,11,676
+Casi Idéntico,12,3,196
+Transposicion,12,9,676
+Aleatorio,13,12,784
+Palindromo,13,9,784
+Repetidos,13,12,784
+Casi Idéntico,13,3,196
+Transposicion,13,10,784
+Aleatorio,14,13,900
+Palindromo,14,12,900
+Repetidos,14,22,900
+Casi Idéntico,14,3,196
+Transposicion,14,11,900
+Aleatorio,15,12,1024
+Palindromo,15,12,1024
+Repetidos,15,16,1024
+Casi Idéntico,15,5,196
+Transposicion,15,13,1024
+Aleatorio,16,14,1156
+Palindromo,16,13,1156
+Repetidos,16,18,1156
+Casi Idéntico,16,3,196
+Transposicion,16,13,1156
+Aleatorio,17,15,1296
+Palindromo,17,15,1296
+Repetidos,17,21,1296
+Casi Idéntico,17,4,196
+Transposicion,17,15,1296
+Aleatorio,18,22,1444
+Palindromo,18,17,1444
+Repetidos,18,24,1444
+Casi Idéntico,18,3,196
+Transposicion,18,17,1444
+Aleatorio,19,25,1600
+Palindromo,19,18,1600
+Repetidos,19,26,1600
+Casi Idéntico,19,3,196
+Transposicion,19,18,1600
+Aleatorio,20,22,1764
+Palindromo,20,22,1764
+Repetidos,20,29,1764
+Casi Idéntico,20,5,196
+Transposicion,20,22,1764
+Aleatorio,21,23,1936
+Palindromo,21,22,1936
+Repetidos,21,29,1936
+Casi Idéntico,21,3,196
+Transposicion,21,22,1936
+Aleatorio,22,37,2116
+Palindromo,22,26,2116
+Repetidos,22,33,2116
+Casi Idéntico,22,3,196
+Transposicion,22,23,2116
+Aleatorio,23,26,2304
+Palindromo,23,26,2304
+Repetidos,23,36,2304
+Casi Idéntico,23,3,196
+Transposicion,23,25,2304
+Aleatorio,24,29,2500
+Palindromo,24,28,2500
+Repetidos,24,39,2500
+Casi Idéntico,24,3,196
+Transposicion,24,28,2500
+Aleatorio,25,30,2704
+Palindromo,25,31,2704
+Repetidos,25,44,2704
+Casi Idéntico,25,3,196
+Transposicion,25,29,2704
+Aleatorio,26,40,2916
+Palindromo,26,36,2916
+Repetidos,26,46,2916
+Casi Idéntico,26,3,196
+Transposicion,26,32,2916
+Aleatorio,27,36,3136
+Palindromo,27,34,3136
+Repetidos,27,50,3136
+Casi Idéntico,27,5,196
+Transposicion,27,34,3136
+Aleatorio,28,37,3364
+Palindromo,28,37,3364
+Repetidos,28,55,3364
+Casi Idéntico,28,3,196
+Transposicion,28,39,3364
+Aleatorio,29,41,3600
+Palindromo,29,39,3600
+Repetidos,29,56,3600
+Casi Idéntico,29,3,196
+Transposicion,29,38,3600
+Aleatorio,30,50,3844
+Palindromo,30,42,3844
+Repetidos,30,61,3844
+Casi Idéntico,30,3,196
+Transposicion,30,42,3844
+Aleatorio,31,45,4096
+Palindromo,31,47,4096
+Repetidos,31,66,4096
+Casi Idéntico,31,5,196
+Transposicion,31,45,4096
+Aleatorio,32,49,4356
+Palindromo,32,50,4356
+Repetidos,32,69,4356
+Casi Idéntico,32,5,196
+Transposicion,32,49,4356
+Aleatorio,33,258,4624
+Palindromo,33,53,4624
+Repetidos,33,73,4624
+Casi Idéntico,33,5,196
+Transposicion,33,51,4624
+Aleatorio,34,67,4900
+Palindromo,34,55,4900
+Repetidos,34,78,4900
+Casi Idéntico,34,5,196
+Transposicion,34,54,4900
+Aleatorio,35,57,5184
+Palindromo,35,57,5184
+Repetidos,35,85,5184
+Casi Idéntico,35,5,196
+Transposicion,35,57,5184
+Aleatorio,36,60,5476
+Palindromo,36,61,5476
+Repetidos,36,86,5476
+Casi Idéntico,36,5,196
+Transposicion,36,61,5476
+Aleatorio,37,65,5776
+Palindromo,37,62,5776
+Repetidos,37,91,5776
+Casi Idéntico,37,5,196
+Transposicion,37,64,5776
+Aleatorio,38,77,6084
+Palindromo,38,69,6084
+Repetidos,38,96,6084
+Casi Idéntico,38,4,196
+Transposicion,38,67,6084
+Aleatorio,39,69,6400
+Palindromo,39,68,6400
+Repetidos,39,101,6400
+Casi Idéntico,39,4,196
+Transposicion,39,69,6400
+Aleatorio,40,73,6724
+Palindromo,40,73,6724
+Repetidos,40,109,6724
+Casi Idéntico,40,4,196
+Transposicion,40,100,6724
+Aleatorio,41,77,7056
+Palindromo,41,77,7056
+Repetidos,41,110,7056
+Casi Idéntico,41,5,196
+Transposicion,41,76,7056
+Aleatorio,42,88,7396
+Palindromo,42,89,7396
+Repetidos,42,118,7396
+Casi Idéntico,42,4,196
+Transposicion,42,81,7396
+Aleatorio,43,87,7744
+Palindromo,43,83,7744
+Repetidos,43,126,7744
+Casi Idéntico,43,5,196
+Transposicion,43,86,7744
+Aleatorio,44,93,8100
+Palindromo,44,91,8100
+Repetidos,44,129,8100
+Casi Idéntico,44,4,196
+Transposicion,44,89,8100
+Aleatorio,45,98,8464
+Palindromo,45,93,8464
+Repetidos,45,163,8464
+Casi Idéntico,45,3,196
+Transposicion,45,90,8464
+Aleatorio,46,107,8836
+Palindromo,46,100,8836
+Repetidos,46,176,8836
+Casi Idéntico,46,3,196
+Transposicion,46,131,8836
+Aleatorio,47,104,9216
+Palindromo,47,102,9216
+Repetidos,47,175,9216
+Casi Idéntico,47,3,196
+Transposicion,47,96,9216
+Aleatorio,48,103,9604
+Palindromo,48,111,9604
+Repetidos,48,144,9604
+Casi Idéntico,48,4,196
+Transposicion,48,100,9604
+Aleatorio,49,106,10000
+Palindromo,49,114,10000
+Repetidos,49,166,10000
+Casi Idéntico,49,5,196
+Transposicion,49,106,10000
+Aleatorio,50,117,10404
+Palindromo,50,112,10404
+Repetidos,50,173,10404
+Casi Idéntico,50,8,196
+Transposicion,50,106,10404
+Aleatorio,51,115,10816
+Palindromo,51,118,10816
+Repetidos,51,167,10816
+Casi Idéntico,51,3,196
+Transposicion,51,114,10816
+Aleatorio,52,124,11236
+Palindromo,52,120,11236
+Repetidos,52,184,11236
+Casi Idéntico,52,8,196
+Transposicion,52,118,11236
+Aleatorio,53,126,11664
+Palindromo,53,126,11664
+Repetidos,53,182,11664
+Casi Idéntico,53,8,196
+Transposicion,53,120,11664
+Aleatorio,54,134,12100
+Palindromo,54,201,12100
+Repetidos,54,188,12100
+Casi Idéntico,54,3,196
+Transposicion,54,127,12100
+Aleatorio,55,135,12544
+Palindromo,55,124,12544
+Repetidos,55,187,12544
+Casi Idéntico,55,3,196
+Transposicion,55,119,12544
+Aleatorio,56,128,12996
+Palindromo,56,128,12996
+Repetidos,56,197,12996
+Casi Idéntico,56,3,196
+Transposicion,56,123,12996
+Aleatorio,57,133,13456
+Palindromo,57,133,13456
+Repetidos,57,191,13456
+Casi Idéntico,57,4,196
+Transposicion,57,130,13456
+Aleatorio,58,147,13924
+Palindromo,58,181,13924
+Repetidos,58,209,13924
+Casi Idéntico,58,3,196
+Transposicion,58,154,13924
+Aleatorio,59,161,14400
+Palindromo,59,143,14400
+Repetidos,59,206,14400
+Casi Idéntico,59,3,196
+Transposicion,59,136,14400
+Aleatorio,60,140,14884
+Palindromo,60,147,14884
+Repetidos,60,210,14884
+Casi Idéntico,60,2,196
+Transposicion,60,139,14884
+Aleatorio,61,148,15376
+Palindromo,61,154,15376
+Repetidos,61,219,15376
+Casi Idéntico,61,4,196
+Transposicion,61,147,15376
+Aleatorio,62,166,15876
+Palindromo,62,164,15876
+Repetidos,62,271,15876
+Casi Idéntico,62,3,196
+Transposicion,62,179,15876
+Aleatorio,63,194,16384
+Palindromo,63,165,16384
+Repetidos,63,279,16384
+Casi Idéntico,63,3,196
+Transposicion,63,156,16384
+Aleatorio,64,165,16900
+Palindromo,64,167,16900
+Repetidos,64,247,16900
+Casi Idéntico,64,3,196
+Transposicion,64,158,16900
+Aleatorio,65,167,17424
+Palindromo,65,165,17424
+Repetidos,65,271,17424
+Casi Idéntico,65,4,196
+Transposicion,65,202,17424
+Aleatorio,66,205,17956
+Palindromo,66,223,17956
+Repetidos,66,272,17956
+Casi Idéntico,66,5,196
+Transposicion,66,191,17956
+Aleatorio,67,219,18496
+Palindromo,67,295,18496
+Repetidos,67,273,18496
+Casi Idéntico,67,3,196
+Transposicion,67,179,18496
+Aleatorio,68,194,19044
+Palindromo,68,190,19044
+Repetidos,68,277,19044
+Casi Idéntico,68,3,196
+Transposicion,68,183,19044
+Aleatorio,69,190,19600
+Palindromo,69,193,19600
+Repetidos,69,281,19600
+Casi Idéntico,69,3,196
+Transposicion,69,201,19600
+Aleatorio,70,215,20164
+Palindromo,70,208,20164
+Repetidos,70,302,20164
+Casi Idéntico,70,7,196
+Transposicion,70,221,20164
+Aleatorio,71,199,20736
+Palindromo,71,201,20736
+Repetidos,71,293,20736
+Casi Idéntico,71,2,196
+Transposicion,71,199,20736
+Aleatorio,72,202,21316
+Palindromo,72,208,21316
+Repetidos,72,316,21316
+Casi Idéntico,72,2,196
+Transposicion,72,199,21316
+Aleatorio,73,214,21904
+Palindromo,73,209,21904
+Repetidos,73,453,21904
+Casi Idéntico,73,4,196
+Transposicion,73,218,21904
+Aleatorio,74,232,22500
+Palindromo,74,253,22500
+Repetidos,74,350,22500
+Casi Idéntico,74,5,196
+Transposicion,74,236,22500
+Aleatorio,75,247,23104
+Palindromo,75,249,23104
+Repetidos,75,370,23104
+Casi Idéntico,75,3,196
+Transposicion,75,236,23104
+Aleatorio,76,242,23716
+Palindromo,76,252,23716
+Repetidos,76,362,23716
+Casi Idéntico,76,3,196
+Transposicion,76,529,23716
+Aleatorio,77,247,24336
+Palindromo,77,254,24336
+Repetidos,77,353,24336
+Casi Idéntico,77,3,196
+Transposicion,77,234,24336
+Aleatorio,78,280,24964
+Palindromo,78,272,24964
+Repetidos,78,391,24964
+Casi Idéntico,78,3,196
+Transposicion,78,252,24964
+Aleatorio,79,266,25600
+Palindromo,79,265,25600
+Repetidos,79,379,25600
+Casi Idéntico,79,4,196
+Transposicion,79,265,25600
+Aleatorio,80,271,26244
+Palindromo,80,271,26244
+Repetidos,80,383,26244
+Casi Idéntico,80,5,196
+Transposicion,80,262,26244
+Aleatorio,81,279,26896
+Palindromo,81,352,26896
+Repetidos,81,496,26896
+Casi Idéntico,81,8,196
+Transposicion,81,273,26896
+Aleatorio,82,289,27556
+Palindromo,82,276,27556
+Repetidos,82,408,27556
+Casi Idéntico,82,5,196
+Transposicion,82,257,27556
+Aleatorio,83,297,28224
+Palindromo,83,276,28224
+Repetidos,83,447,28224
+Casi Idéntico,83,4,196
+Transposicion,83,285,28224
+Aleatorio,84,297,28900
+Palindromo,84,308,28900
+Repetidos,84,462,28900
+Casi Idéntico,84,5,196
+Transposicion,84,318,28900
+Aleatorio,85,303,29584
+Palindromo,85,322,29584
+Repetidos,85,437,29584
+Casi Idéntico,85,4,196
+Transposicion,85,290,29584
+Aleatorio,86,315,30276
+Palindromo,86,328,30276
+Repetidos,86,458,30276
+Casi Idéntico,86,4,196
+Transposicion,86,292,30276
+Aleatorio,87,326,30976
+Palindromo,87,330,30976
+Repetidos,87,479,30976
+Casi Idéntico,87,4,196
+Transposicion,87,499,30976
+Aleatorio,88,391,31684
+Palindromo,88,333,31684
+Repetidos,88,462,31684
+Casi Idéntico,88,6,196
+Transposicion,88,334,31684
+Aleatorio,89,337,32400
+Palindromo,89,347,32400
+Repetidos,89,466,32400
+Casi Idéntico,89,5,196
+Transposicion,89,326,32400
+Aleatorio,90,351,33124
+Palindromo,90,355,33124
+Repetidos,90,562,33124
+Casi Idéntico,90,3,196
+Transposicion,90,342,33124
+Aleatorio,91,374,33856
+Palindromo,91,367,33856
+Repetidos,91,512,33856
+Casi Idéntico,91,4,196
+Transposicion,91,328,33856
+Aleatorio,92,352,34596
+Palindromo,92,351,34596
+Repetidos,92,522,34596
+Casi Idéntico,92,4,196
+Transposicion,92,357,34596
+Aleatorio,93,369,35344
+Palindromo,93,397,35344
+Repetidos,93,517,35344
+Casi Idéntico,93,4,196
+Transposicion,93,327,35344
+Aleatorio,94,354,36100
+Palindromo,94,363,36100
+Repetidos,94,514,36100
+Casi Idéntico,94,3,196
+Transposicion,94,346,36100
+Aleatorio,95,360,36864
+Palindromo,95,359,36864
+Repetidos,95,549,36864
+Casi Idéntico,95,3,196
+Transposicion,95,338,36864
+Aleatorio,96,365,37636
+Palindromo,96,363,37636
+Repetidos,96,558,37636
+Casi Idéntico,96,8,196
+Transposicion,96,395,37636
+Aleatorio,97,426,38416
+Palindromo,97,410,38416
+Repetidos,97,602,38416
+Casi Idéntico,97,3,196
+Transposicion,97,382,38416
+Aleatorio,98,407,39204
+Palindromo,98,452,39204
+Repetidos,98,601,39204
+Casi Idéntico,98,6,196
+Transposicion,98,399,39204
+Aleatorio,99,410,40000
+Palindromo,99,413,40000
+Repetidos,99,837,40000
+Casi Idéntico,99,4,196
+Transposicion,99,364,40000
+Aleatorio,100,401,40804
+Palindromo,100,394,40804
+Repetidos,100,576,40804
+Casi Idéntico,100,3,196
+Transposicion,100,381,40804
+Aleatorio,101,390,41616
+Palindromo,101,409,41616
+Repetidos,101,621,41616
+Casi Idéntico,101,4,196
+Transposicion,101,386,41616
+Aleatorio,102,418,42436
+Palindromo,102,418,42436
+Repetidos,102,601,42436
+Casi Idéntico,102,3,196
+Transposicion,102,405,42436
+Aleatorio,103,420,43264
+Palindromo,103,423,43264
+Repetidos,103,626,43264
+Casi Idéntico,103,3,196
+Transposicion,103,414,43264
+Aleatorio,104,435,44100
+Palindromo,104,431,44100
+Repetidos,104,657,44100
+Casi Idéntico,104,3,196
+Transposicion,104,400,44100
+Aleatorio,105,438,44944
+Palindromo,105,428,44944
+Repetidos,105,616,44944
+Casi Idéntico,105,3,196
+Transposicion,105,455,44944
+Aleatorio,106,453,45796
+Palindromo,106,443,45796
+Repetidos,106,653,45796
+Casi Idéntico,106,3,196
+Transposicion,106,412,45796
+Aleatorio,107,458,46656
+Palindromo,107,457,46656
+Repetidos,107,684,46656
+Casi Idéntico,107,3,196
+Transposicion,107,453,46656
+Aleatorio,108,453,47524
+Palindromo,108,478,47524
+Repetidos,108,655,47524
+Casi Idéntico,108,3,196
+Transposicion,108,452,47524
+Aleatorio,109,522,48400
+Palindromo,109,463,48400
+Repetidos,109,685,48400
+Casi Idéntico,109,5,196
+Transposicion,109,444,48400
+Aleatorio,110,529,49284
+Palindromo,110,476,49284
+Repetidos,110,698,49284
+Casi Idéntico,110,3,196
+Transposicion,110,446,49284
+Aleatorio,111,482,50176
+Palindromo,111,492,50176
+Repetidos,111,713,50176
+Casi Idéntico,111,3,196
+Transposicion,111,469,50176
+Aleatorio,112,481,51076
+Palindromo,112,493,51076
+Repetidos,112,718,51076
+Casi Idéntico,112,3,196
+Transposicion,112,663,51076
+Aleatorio,113,515,51984
+Palindromo,113,494,51984
+Repetidos,113,707,51984
+Casi Idéntico,113,3,196
+Transposicion,113,480,51984
+Aleatorio,114,500,52900
+Palindromo,114,520,52900
+Repetidos,114,1023,52900
+Casi Idéntico,114,5,196
+Transposicion,114,554,52900
+Aleatorio,115,523,53824
+Palindromo,115,512,53824
+Repetidos,115,776,53824
+Casi Idéntico,115,3,196
+Transposicion,115,533,53824
+Aleatorio,116,516,54756
+Palindromo,116,517,54756
+Repetidos,116,746,54756
+Casi Idéntico,116,3,196
+Transposicion,116,517,54756
+Aleatorio,117,541,55696
+Palindromo,117,790,55696
+Repetidos,117,827,55696
+Casi Idéntico,117,4,196
+Transposicion,117,553,55696
+Aleatorio,118,555,56644
+Palindromo,118,559,56644
+Repetidos,118,804,56644
+Casi Idéntico,118,3,196
+Transposicion,118,523,56644
+Aleatorio,119,598,57600
+Palindromo,119,569,57600
+Repetidos,119,821,57600
+Casi Idéntico,119,3,196
+Transposicion,119,540,57600
+Aleatorio,120,753,58564
+Palindromo,120,556,58564
+Repetidos,120,830,58564
+Casi Idéntico,120,7,196
+Transposicion,120,580,58564
+Aleatorio,121,570,59536
+Palindromo,121,594,59536
+Repetidos,121,860,59536
+Casi Idéntico,121,6,196
+Transposicion,121,553,59536
+Aleatorio,122,601,60516
+Palindromo,122,592,60516
+Repetidos,122,1132,60516
+Casi Idéntico,122,5,196
+Transposicion,122,558,60516
+Aleatorio,123,621,61504
+Palindromo,123,627,61504
+Repetidos,123,881,61504
+Casi Idéntico,123,2,196
+Transposicion,123,592,61504
+Aleatorio,124,612,62500
+Palindromo,124,624,62500
+Repetidos,124,882,62500
+Casi Idéntico,124,4,196
+Transposicion,124,582,62500
+Aleatorio,125,630,63504
+Palindromo,125,634,63504
+Repetidos,125,859,63504
+Casi Idéntico,125,4,196
+Transposicion,125,580,63504
+Aleatorio,126,627,64516
+Palindromo,126,627,64516
+Repetidos,126,908,64516
+Casi Idéntico,126,3,196
+Transposicion,126,572,64516
+Aleatorio,127,658,65536
+Palindromo,127,688,65536
+Repetidos,127,948,65536
+Casi Idéntico,127,3,196
+Transposicion,127,662,65536
+Aleatorio,128,658,66564
+Palindromo,128,707,66564
+Repetidos,128,928,66564
+Casi Idéntico,128,4,196
+Transposicion,128,622,66564
+Aleatorio,129,647,67600
+Palindromo,129,653,67600
+Repetidos,129,997,67600
+Casi Idéntico,129,4,196
+Transposicion,129,860,67600
+Aleatorio,130,719,68644
+Palindromo,130,677,68644
+Repetidos,130,950,68644
+Casi Idéntico,130,5,196
+Transposicion,130,688,68644
+Aleatorio,131,718,69696
+Palindromo,131,674,69696
+Repetidos,131,1038,69696
+Casi Idéntico,131,4,196
+Transposicion,131,697,69696
+Aleatorio,132,725,70756
+Palindromo,132,709,70756
+Repetidos,132,1544,70756
+Casi Idéntico,132,4,196
+Transposicion,132,702,70756
+Aleatorio,133,697,71824
+Palindromo,133,707,71824
+Repetidos,133,1053,71824
+Casi Idéntico,133,4,196
+Transposicion,133,689,71824
+Aleatorio,134,712,72900
+Palindromo,134,747,72900
+Repetidos,134,1036,72900
+Casi Idéntico,134,5,196
+Transposicion,134,687,72900
+Aleatorio,135,743,73984
+Palindromo,135,734,73984
+Repetidos,135,1073,73984
+Casi Idéntico,135,3,196
+Transposicion,135,673,73984
+Aleatorio,136,719,75076
+Palindromo,136,721,75076
+Repetidos,136,1081,75076
+Casi Idéntico,136,3,196
+Transposicion,136,731,75076
+Aleatorio,137,783,76176
+Palindromo,137,749,76176
+Repetidos,137,1106,76176
+Casi Idéntico,137,4,196
+Transposicion,137,705,76176
+Aleatorio,138,766,77284
+Palindromo,138,746,77284
+Repetidos,138,1109,77284
+Casi Idéntico,138,3,196
+Transposicion,138,718,77284
+Aleatorio,139,765,78400
+Palindromo,139,777,78400
+Repetidos,139,1235,78400
+Casi Idéntico,139,3,196
+Transposicion,139,748,78400
+Aleatorio,140,779,79524
+Palindromo,140,792,79524
+Repetidos,140,1133,79524
+Casi Idéntico,140,4,196
+Transposicion,140,743,79524
+Aleatorio,141,791,80656
+Palindromo,141,781,80656
+Repetidos,141,1176,80656
+Casi Idéntico,141,2,196
+Transposicion,141,1026,80656
+Aleatorio,142,763,81796
+Palindromo,142,813,81796
+Repetidos,142,1195,81796
+Casi Idéntico,142,4,196
+Transposicion,142,754,81796
+Aleatorio,143,828,82944
+Palindromo,143,807,82944
+Repetidos,143,1170,82944
+Casi Idéntico,143,4,196
+Transposicion,143,764,82944
+Aleatorio,144,822,84100
+Palindromo,144,996,84100
+Repetidos,144,1330,84100
+Casi Idéntico,144,4,196
+Transposicion,144,770,84100
+Aleatorio,145,831,85264
+Palindromo,145,832,85264
+Repetidos,145,1218,85264
+Casi Idéntico,145,3,196
+Transposicion,145,804,85264
+Aleatorio,146,846,86436
+Palindromo,146,850,86436
+Repetidos,146,1360,86436
+Casi Idéntico,146,7,196
+Transposicion,146,848,86436
+Aleatorio,147,838,87616
+Palindromo,147,879,87616
+Repetidos,147,1206,87616
+Casi Idéntico,147,3,196
+Transposicion,147,811,87616
+Aleatorio,148,844,88804
+Palindromo,148,861,88804
+Repetidos,148,1362,88804
+Casi Idéntico,148,8,196
+Transposicion,148,932,88804
+Aleatorio,149,919,90000
+Palindromo,149,944,90000
+Repetidos,149,1324,90000
+Casi Idéntico,149,4,196
+Transposicion,149,857,90000
+Aleatorio,150,895,91204
+Palindromo,150,1197,91204
+Repetidos,150,1363,91204
+Casi Idéntico,150,5,196
+Transposicion,150,952,91204
+Aleatorio,151,979,92416
+Palindromo,151,959,92416
+Repetidos,151,1459,92416
+Casi Idéntico,151,3,196
+Transposicion,151,829,92416
+Aleatorio,152,888,93636
+Palindromo,152,1186,93636
+Repetidos,152,1299,93636
+Casi Idéntico,152,3,196
+Transposicion,152,933,93636
+Aleatorio,153,905,94864
+Palindromo,153,895,94864
+Repetidos,153,1319,94864
+Casi Idéntico,153,6,196
+Transposicion,153,859,94864
+Aleatorio,154,956,96100
+Palindromo,154,1236,96100
+Repetidos,154,1448,96100
+Casi Idéntico,154,4,196
+Transposicion,154,931,96100
+Aleatorio,155,963,97344
+Palindromo,155,944,97344
+Repetidos,155,1427,97344
+Casi Idéntico,155,4,196
+Transposicion,155,920,97344
+Aleatorio,156,1317,98596
+Palindromo,156,1018,98596
+Repetidos,156,1513,98596
+Casi Idéntico,156,14,196
+Transposicion,156,925,98596
+Aleatorio,157,974,99856
+Palindromo,157,976,99856
+Repetidos,157,1398,99856
+Casi Idéntico,157,6,196
+Transposicion,157,1211,99856
+Aleatorio,158,1043,101124
+Palindromo,158,1022,101124
+Repetidos,158,1506,101124
+Casi Idéntico,158,7,196
+Transposicion,158,1007,101124
+Aleatorio,159,1064,102400
+Palindromo,159,1068,102400
+Repetidos,159,1867,102400
+Casi Idéntico,159,4,196
+Transposicion,159,965,102400
+Aleatorio,160,995,103684
+Palindromo,160,1016,103684
+Repetidos,160,1530,103684
+Casi Idéntico,160,5,196
+Transposicion,160,975,103684
+Aleatorio,161,994,104976
+Palindromo,161,1026,104976
+Repetidos,161,1764,104976
+Casi Idéntico,161,4,196
+Transposicion,161,975,104976
+Aleatorio,162,1035,106276
+Palindromo,162,1010,106276
+Repetidos,162,1548,106276
+Casi Idéntico,162,4,196
+Transposicion,162,981,106276
+Aleatorio,163,1026,107584
+Palindromo,163,1047,107584
+Repetidos,163,1538,107584
+Casi Idéntico,163,4,196
+Transposicion,163,1017,107584
+Aleatorio,164,1057,108900
+Palindromo,164,1045,108900
+Repetidos,164,1588,108900
+Casi Idéntico,164,4,196
+Transposicion,164,1016,108900
+Aleatorio,165,1077,110224
+Palindromo,165,1084,110224
+Repetidos,165,1611,110224
+Casi Idéntico,165,5,196
+Transposicion,165,1045,110224
+Aleatorio,166,1105,111556
+Palindromo,166,1111,111556
+Repetidos,166,1544,111556
+Casi Idéntico,166,3,196
+Transposicion,166,1050,111556
+Aleatorio,167,1328,112896
+Palindromo,167,1122,112896
+Repetidos,167,1716,112896
+Casi Idéntico,167,4,196
+Transposicion,167,1071,112896
+Aleatorio,168,1110,114244
+Palindromo,168,1110,114244
+Repetidos,168,1634,114244
+Casi Idéntico,168,4,196
+Transposicion,168,1230,114244
+Aleatorio,169,1141,115600
+Palindromo,169,1156,115600
+Repetidos,169,1636,115600
+Casi Idéntico,169,4,196
+Transposicion,169,1107,115600
+Aleatorio,170,1158,116964
+Palindromo,170,1182,116964
+Repetidos,170,1700,116964
+Casi Idéntico,170,3,196
+Transposicion,170,1090,116964
+Aleatorio,171,1228,118336
+Palindromo,171,1155,118336
+Repetidos,171,1786,118336
+Casi Idéntico,171,3,196
+Transposicion,171,1205,118336
+Aleatorio,172,1294,119716
+Palindromo,172,1198,119716
+Repetidos,172,2075,119716
+Casi Idéntico,172,5,196
+Transposicion,172,1098,119716
+Aleatorio,173,1197,121104
+Palindromo,173,1163,121104
+Repetidos,173,1727,121104
+Casi Idéntico,173,4,196
+Transposicion,173,1082,121104
+Aleatorio,174,1201,122500
+Palindromo,174,1244,122500
+Repetidos,174,2159,122500
+Casi Idéntico,174,6,196
+Transposicion,174,1142,122500
+Aleatorio,175,1237,123904
+Palindromo,175,1313,123904
+Repetidos,175,1781,123904
+Casi Idéntico,175,4,196
+Transposicion,175,1248,123904
+Aleatorio,176,1670,125316
+Palindromo,176,1242,125316
+Repetidos,176,1825,125316
+Casi Idéntico,176,4,196
+Transposicion,176,1217,125316
+Aleatorio,177,1243,126736
+Palindromo,177,1255,126736
+Repetidos,177,1851,126736
+Casi Idéntico,177,8,196
+Transposicion,177,1223,126736
+Aleatorio,178,1273,128164
+Palindromo,178,1227,128164
+Repetidos,178,1804,128164
+Casi Idéntico,178,3,196
+Transposicion,178,1188,128164
+Aleatorio,179,1279,129600
+Palindromo,179,1174,129600
+Repetidos,179,1893,129600
+Casi Idéntico,179,6,196
+Transposicion,179,1214,129600
+Aleatorio,180,1267,131044
+Palindromo,180,1271,131044
+Repetidos,180,1847,131044
+Casi Idéntico,180,3,196
+Transposicion,180,1622,131044
+Aleatorio,181,1422,132496
+Palindromo,181,1350,132496
+Repetidos,181,1891,132496
+Casi Idéntico,181,4,196
+Transposicion,181,1217,132496
+Aleatorio,182,1280,133956
+Palindromo,182,1263,133956
+Repetidos,182,2134,133956
+Casi Idéntico,182,4,196
+Transposicion,182,1245,133956
+Aleatorio,183,1355,135424
+Palindromo,183,1368,135424
+Repetidos,183,1921,135424
+Casi Idéntico,183,4,196
+Transposicion,183,1220,135424
+Aleatorio,184,1336,136900
+Palindromo,184,1593,136900
+Repetidos,184,1965,136900
+Casi Idéntico,184,7,196
+Transposicion,184,1264,136900
+Aleatorio,185,1352,138384
+Palindromo,185,1318,138384
+Repetidos,185,2056,138384
+Casi Idéntico,185,3,196
+Transposicion,185,1321,138384
+Aleatorio,186,1299,139876
+Palindromo,186,1331,139876
+Repetidos,186,2055,139876
+Casi Idéntico,186,3,196
+Transposicion,186,1320,139876
+Aleatorio,187,1377,141376
+Palindromo,187,1359,141376
+Repetidos,187,2359,141376
+Casi Idéntico,187,5,196
+Transposicion,187,1331,141376
+Aleatorio,188,1339,142884
+Palindromo,188,1354,142884
+Repetidos,188,2046,142884
+Casi Idéntico,188,3,196
+Transposicion,188,1296,142884
+Aleatorio,189,1402,144400
+Palindromo,189,1507,144400
+Repetidos,189,2043,144400
+Casi Idéntico,189,5,196
+Transposicion,189,1396,144400
+Aleatorio,190,1402,145924
+Palindromo,190,1414,145924
+Repetidos,190,2146,145924
+Casi Idéntico,190,3,196
+Transposicion,190,1365,145924
+Aleatorio,191,1428,147456
+Palindromo,191,1470,147456
+Repetidos,191,2142,147456
+Casi Idéntico,191,4,196
+Transposicion,191,1352,147456
+Aleatorio,192,1431,148996
+Palindromo,192,1409,148996
+Repetidos,192,2261,148996
+Casi Idéntico,192,5,196
+Transposicion,192,1375,148996
+Aleatorio,193,1410,150544
+Palindromo,193,1463,150544
+Repetidos,193,2140,150544
+Casi Idéntico,193,3,196
+Transposicion,193,1393,150544
+Aleatorio,194,1391,152100
+Palindromo,194,1445,152100
+Repetidos,194,2126,152100
+Casi Idéntico,194,5,196
+Transposicion,194,1469,152100
+Aleatorio,195,1801,153664
+Palindromo,195,1909,153664
+Repetidos,195,3040,153664
+Casi Idéntico,195,6,196
+Transposicion,195,1895,153664
+Aleatorio,196,1932,155236
+Palindromo,196,1957,155236
+Repetidos,196,3152,155236
+Casi Idéntico,196,6,196
+Transposicion,196,1914,155236
+Aleatorio,197,2007,156816
+Palindromo,197,2036,156816
+Repetidos,197,2835,156816
+Casi Idéntico,197,4,196
+Transposicion,197,2169,156816
+Aleatorio,198,2042,158404
+Palindromo,198,2673,158404
+Repetidos,198,2893,158404
+Casi Idéntico,198,9,196
+Transposicion,198,2191,158404
+Aleatorio,199,2015,160000
+Palindromo,199,2011,160000
+Repetidos,199,3040,160000
+Casi Idéntico,199,6,196
+Transposicion,199,2040,160000
+Aleatorio,200,2422,161604
+Palindromo,200,2085,161604
+Repetidos,200,3016,161604
+Casi Idéntico,200,5,196
+Transposicion,200,2092,161604
+Aleatorio,201,2565,163216
+Palindromo,201,2059,163216
+Repetidos,201,3092,163216
+Casi Idéntico,201,10,196
+Transposicion,201,2034,163216
+Aleatorio,202,2078,164836
+Palindromo,202,2097,164836
+Repetidos,202,2750,164836
+Casi Idéntico,202,8,196
+Transposicion,202,1817,164836
+Aleatorio,203,1879,166464
+Palindromo,203,1902,166464
+Repetidos,203,3068,166464
+Casi Idéntico,203,6,196
+Transposicion,203,1780,166464
+Aleatorio,204,1885,168100
+Palindromo,204,1862,168100
+Repetidos,204,2720,168100
+Casi Idéntico,204,5,196
+Transposicion,204,1854,168100
+Aleatorio,205,1937,169744
+Palindromo,205,1905,169744
+Repetidos,205,2884,169744
+Casi Idéntico,205,6,196
+Transposicion,205,2115,169744
+Aleatorio,206,2048,171396
+Palindromo,206,1982,171396
+Repetidos,206,2955,171396
+Casi Idéntico,206,6,196
+Transposicion,206,1954,171396
+Aleatorio,207,2406,173056
+Palindromo,207,2013,173056
+Repetidos,207,2936,173056
+Casi Idéntico,207,5,196
+Transposicion,207,1926,173056
+Aleatorio,208,2069,174724
+Palindromo,208,2147,174724
+Repetidos,208,3191,174724
+Casi Idéntico,208,4,196
+Transposicion,208,1984,174724
+Aleatorio,209,1996,176400
+Palindromo,209,2105,176400
+Repetidos,209,3305,176400
+Casi Idéntico,209,5,196
+Transposicion,209,1971,176400
+Aleatorio,210,2120,178084
+Palindromo,210,2027,178084
+Repetidos,210,3206,178084
+Casi Idéntico,210,5,196
+Transposicion,210,2336,178084
+Aleatorio,211,2047,179776
+Palindromo,211,2283,179776
+Repetidos,211,2657,179776
+Casi Idéntico,211,9,196
+Transposicion,211,1803,179776
+Aleatorio,212,1858,181476
+Palindromo,212,1991,181476
+Repetidos,212,2715,181476
+Casi Idéntico,212,4,196
+Transposicion,212,1842,181476
+Aleatorio,213,1886,183184
+Palindromo,213,1984,183184
+Repetidos,213,3114,183184
+Casi Idéntico,213,5,196
+Transposicion,213,1844,183184
+Aleatorio,214,2000,184900
+Palindromo,214,1955,184900
+Repetidos,214,2896,184900
+Casi Idéntico,214,6,196
+Transposicion,214,2176,184900
+Aleatorio,215,1953,186624
+Palindromo,215,1900,186624
+Repetidos,215,2913,186624
+Casi Idéntico,215,5,196
+Transposicion,215,1972,186624
+Aleatorio,216,2410,188356
+Palindromo,216,1942,188356
+Repetidos,216,2996,188356
+Casi Idéntico,216,4,196
+Transposicion,216,1865,188356
+Aleatorio,217,1991,190096
+Palindromo,217,2385,190096
+Repetidos,217,2877,190096
+Casi Idéntico,217,7,196
+Transposicion,217,1975,190096
+Aleatorio,218,2017,191844
+Palindromo,218,2225,191844
+Repetidos,218,3039,191844
+Casi Idéntico,218,6,196
+Transposicion,218,1916,191844
+Aleatorio,219,2031,193600
+Palindromo,219,2038,193600
+Repetidos,219,2843,193600
+Casi Idéntico,219,7,196
+Transposicion,219,1947,193600
+Aleatorio,220,1874,195364
+Palindromo,220,1831,195364
+Repetidos,220,2874,195364
+Casi Idéntico,220,5,196
+Transposicion,220,1807,195364
+Aleatorio,221,1941,197136
+Palindromo,221,1908,197136
+Repetidos,221,2907,197136
+Casi Idéntico,221,5,196
+Transposicion,221,2116,197136
+Aleatorio,222,1975,198916
+Palindromo,222,1944,198916
+Repetidos,222,2936,198916
+Casi Idéntico,222,7,196
+Transposicion,222,1861,198916
+Aleatorio,223,2041,200704
+Palindromo,223,1982,200704
+Repetidos,223,2725,200704
+Casi Idéntico,223,3,196
+Transposicion,223,1903,200704
+Aleatorio,224,1991,202500
+Palindromo,224,1849,202500
+Repetidos,224,3244,202500
+Casi Idéntico,224,5,196
+Transposicion,224,1829,202500
+Aleatorio,225,2066,204304
+Palindromo,225,1965,204304
+Repetidos,225,3097,204304
+Casi Idéntico,225,4,196
+Transposicion,225,1956,204304
+Aleatorio,226,2017,206116
+Palindromo,226,1861,206116
+Repetidos,226,2943,206116
+Casi Idéntico,226,4,196
+Transposicion,226,1957,206116
+Aleatorio,227,2053,207936
+Palindromo,227,1971,207936
+Repetidos,227,2852,207936
+Casi Idéntico,227,3,196
+Transposicion,227,1960,207936
+Aleatorio,228,2034,209764
+Palindromo,228,2253,209764
+Repetidos,228,2986,209764
+Casi Idéntico,228,6,196
+Transposicion,228,1937,209764
+Aleatorio,229,2178,211600
+Palindromo,229,1963,211600
+Repetidos,229,3332,211600
+Casi Idéntico,229,6,196
+Transposicion,229,1939,211600
+Aleatorio,230,2099,213444
+Palindromo,230,2095,213444
+Repetidos,230,2997,213444
+Casi Idéntico,230,4,196
+Transposicion,230,1894,213444
+Aleatorio,231,2008,215296
+Palindromo,231,2049,215296
+Repetidos,231,3068,215296
+Casi Idéntico,231,8,196
+Transposicion,231,2398,215296
+Aleatorio,232,2098,217156
+Palindromo,232,2082,217156
+Repetidos,232,3085,217156
+Casi Idéntico,232,5,196
+Transposicion,232,1937,217156
+Aleatorio,233,2456,219024
+Palindromo,233,2008,219024
+Repetidos,233,3087,219024
+Casi Idéntico,233,4,196
+Transposicion,233,1934,219024
+Aleatorio,234,2126,220900
+Palindromo,234,2671,220900
+Repetidos,234,3260,220900
+Casi Idéntico,234,5,196
+Transposicion,234,2052,220900
+Aleatorio,235,2109,222784
+Palindromo,235,2115,222784
+Repetidos,235,3281,222784
+Casi Idéntico,235,6,196
+Transposicion,235,2014,222784
+Aleatorio,236,2193,224676
+Palindromo,236,2106,224676
+Repetidos,236,3691,224676
+Casi Idéntico,236,7,196
+Transposicion,236,2102,224676
+Aleatorio,237,2202,226576
+Palindromo,237,2149,226576
+Repetidos,237,2921,226576
+Casi Idéntico,237,5,196
+Transposicion,237,2172,226576
+Aleatorio,238,2193,228484
+Palindromo,238,2186,228484
+Repetidos,238,3200,228484
+Casi Idéntico,238,5,196
+Transposicion,238,2038,228484
+Aleatorio,239,2158,230400
+Palindromo,239,2179,230400
+Repetidos,239,3416,230400
+Casi Idéntico,239,8,196
+Transposicion,239,2133,230400
+Aleatorio,240,2391,232324
+Palindromo,240,2191,232324
+Repetidos,240,3279,232324
+Casi Idéntico,240,5,196
+Transposicion,240,2124,232324
+Aleatorio,241,2198,234256
+Palindromo,241,2098,234256
+Repetidos,241,3363,234256
+Casi Idéntico,241,3,196
+Transposicion,241,2049,234256
+Aleatorio,242,2252,236196
+Palindromo,242,2478,236196
+Repetidos,242,3252,236196
+Casi Idéntico,242,5,196
+Transposicion,242,2136,236196
+Aleatorio,243,2239,238144
+Palindromo,243,2312,238144
+Repetidos,243,3873,238144
+Casi Idéntico,243,4,196
+Transposicion,243,2130,238144
+Aleatorio,244,2236,240100
+Palindromo,244,2314,240100
+Repetidos,244,3553,240100
+Casi Idéntico,244,5,196
+Transposicion,244,2244,240100
+Aleatorio,245,2457,242064
+Palindromo,245,2309,242064
+Repetidos,245,3488,242064
+Casi Idéntico,245,5,196
+Transposicion,245,2521,242064
+Aleatorio,246,2223,244036
+Palindromo,246,2482,244036
+Repetidos,246,3565,244036
+Casi Idéntico,246,16,196
+Transposicion,246,3100,244036
+Aleatorio,247,2441,246016
+Palindromo,247,2337,246016
+Repetidos,247,3668,246016
+Casi Idéntico,247,5,196
+Transposicion,247,2698,246016
+Aleatorio,248,2480,248004
+Palindromo,248,2535,248004
+Repetidos,248,3487,248004
+Casi Idéntico,248,6,196
+Transposicion,248,2416,248004
+Aleatorio,249,2328,250000
+Palindromo,249,2389,250000
+Repetidos,249,3454,250000
+Casi Idéntico,249,6,196
+Transposicion,249,2420,250000
+Aleatorio,250,2527,252004
+Palindromo,250,2395,252004
+Repetidos,250,3471,252004
+Casi Idéntico,250,6,196
+Transposicion,250,2575,252004
+Aleatorio,251,2554,254016
+Palindromo,251,2610,254016
+Repetidos,251,3841,254016
+Casi Idéntico,251,5,196
+Transposicion,251,2928,254016
+Aleatorio,252,2449,256036
+Palindromo,252,2437,256036
+Repetidos,252,3383,256036
+Casi Idéntico,252,5,196
+Transposicion,252,2445,256036
+Aleatorio,253,2430,258064
+Palindromo,253,2408,258064
+Repetidos,253,3559,258064
+Casi Idéntico,253,3,196
+Transposicion,253,2399,258064
+Aleatorio,254,2730,260100
+Palindromo,254,2512,260100
+Repetidos,254,3697,260100
+Casi Idéntico,254,4,196
+Transposicion,254,2377,260100
+Aleatorio,255,2615,262144
+Palindromo,255,2568,262144
+Repetidos,255,3882,262144
+Casi Idéntico,255,3,196
+Transposicion,255,2406,262144
+Aleatorio,256,2591,264196
+Palindromo,256,2507,264196
+Repetidos,256,3735,264196
+Casi Idéntico,256,3,196
+Transposicion,256,2440,264196
+Aleatorio,257,2526,266256
+Palindromo,257,2963,266256
+Repetidos,257,3720,266256
+Casi Idéntico,257,3,196
+Transposicion,257,2403,266256
+Aleatorio,258,2540,268324
+Palindromo,258,2680,268324
+Repetidos,258,4023,268324
+Casi Idéntico,258,4,196
+Transposicion,258,2416,268324
+Aleatorio,259,2576,270400
+Palindromo,259,2649,270400
+Repetidos,259,4068,270400
+Casi Idéntico,259,5,196
+Transposicion,259,2583,270400
+Aleatorio,260,2574,272484
+Palindromo,260,3005,272484
+Repetidos,260,3997,272484
+Casi Idéntico,260,7,196
+Transposicion,260,2429,272484
+Aleatorio,261,2488,274576
+Palindromo,261,2502,274576
+Repetidos,261,3832,274576
+Casi Idéntico,261,13,196
+Transposicion,261,2563,274576
+Aleatorio,262,2547,276676
+Palindromo,262,2729,276676
+Repetidos,262,3910,276676
+Casi Idéntico,262,8,196
+Transposicion,262,2521,276676
+Aleatorio,263,2558,278784
+Palindromo,263,2614,278784
+Repetidos,263,3784,278784
+Casi Idéntico,263,5,196
+Transposicion,263,2578,278784
+Aleatorio,264,2644,280900
+Palindromo,264,2710,280900
+Repetidos,264,3768,280900
+Casi Idéntico,264,6,196
+Transposicion,264,2503,280900
+Aleatorio,265,2802,283024
+Palindromo,265,3051,283024
+Repetidos,265,4031,283024
+Casi Idéntico,265,4,196
+Transposicion,265,2612,283024
+Aleatorio,266,2717,285156
+Palindromo,266,3203,285156
+Repetidos,266,3829,285156
+Casi Idéntico,266,7,196
+Transposicion,266,2757,285156
+Aleatorio,267,2746,287296
+Palindromo,267,3058,287296
+Repetidos,267,4099,287296
+Casi Idéntico,267,3,196
+Transposicion,267,2639,287296
+Aleatorio,268,2735,289444
+Palindromo,268,3129,289444
+Repetidos,268,4072,289444
+Casi Idéntico,268,5,196
+Transposicion,268,2585,289444
+Aleatorio,269,2755,291600
+Palindromo,269,2999,291600
+Repetidos,269,4224,291600
+Casi Idéntico,269,3,196
+Transposicion,269,2735,291600
+Aleatorio,270,2871,293764
+Palindromo,270,3175,293764
+Repetidos,270,4262,293764
+Casi Idéntico,270,5,196
+Transposicion,270,2707,293764
+Aleatorio,271,2781,295936
+Palindromo,271,3035,295936
+Repetidos,271,4298,295936
+Casi Idéntico,271,4,196
+Transposicion,271,2777,295936
+Aleatorio,272,2862,298116
+Palindromo,272,2860,298116
+Repetidos,272,4184,298116
+Casi Idéntico,272,5,196
+Transposicion,272,2711,298116
+Aleatorio,273,3316,300304
+Palindromo,273,2923,300304
+Repetidos,273,4032,300304
+Casi Idéntico,273,4,196
+Transposicion,273,2718,300304
+Aleatorio,274,3440,302500
+Palindromo,274,2845,302500
+Repetidos,274,4306,302500
+Casi Idéntico,274,6,196
+Transposicion,274,2752,302500
+Aleatorio,275,3362,304704
+Palindromo,275,2935,304704
+Repetidos,275,4463,304704
+Casi Idéntico,275,5,196
+Transposicion,275,3123,304704
+Aleatorio,276,2942,306916
+Palindromo,276,2930,306916
+Repetidos,276,4418,306916
+Casi Idéntico,276,5,196
+Transposicion,276,2917,306916
+Aleatorio,277,3027,309136
+Palindromo,277,2829,309136
+Repetidos,277,4690,309136
+Casi Idéntico,277,24,196
+Transposicion,277,3020,309136
+Aleatorio,278,2997,311364
+Palindromo,278,3023,311364
+Repetidos,278,4705,311364
+Casi Idéntico,278,6,196
+Transposicion,278,3003,311364
+Aleatorio,279,2942,313600
+Palindromo,279,2958,313600
+Repetidos,279,4579,313600
+Casi Idéntico,279,5,196
+Transposicion,279,2822,313600
+Aleatorio,280,2926,315844
+Palindromo,280,3206,315844
+Repetidos,280,4406,315844
+Casi Idéntico,280,5,196
+Transposicion,280,2919,315844
+Aleatorio,281,2947,318096
+Palindromo,281,3300,318096
+Repetidos,281,4768,318096
+Casi Idéntico,281,3,196
+Transposicion,281,2899,318096
+Aleatorio,282,2957,320356
+Palindromo,282,4655,320356
+Repetidos,282,4738,320356
+Casi Idéntico,282,4,196
+Transposicion,282,2919,320356
+Aleatorio,283,3261,322624
+Palindromo,283,3059,322624
+Repetidos,283,4607,322624
+Casi Idéntico,283,3,196
+Transposicion,283,3115,322624
+Aleatorio,284,3077,324900
+Palindromo,284,3088,324900
+Repetidos,284,4485,324900
+Casi Idéntico,284,5,196
+Transposicion,284,3233,324900
+Aleatorio,285,3073,327184
+Palindromo,285,3189,327184
+Repetidos,285,4684,327184
+Casi Idéntico,285,4,196
+Transposicion,285,3185,327184
+Aleatorio,286,3223,329476
+Palindromo,286,3187,329476
+Repetidos,286,5055,329476
+Casi Idéntico,286,7,196
+Transposicion,286,3120,329476
+Aleatorio,287,3156,331776
+Palindromo,287,3240,331776
+Repetidos,287,5114,331776
+Casi Idéntico,287,5,196
+Transposicion,287,3112,331776
+Aleatorio,288,3231,334084
+Palindromo,288,3639,334084
+Repetidos,288,4476,334084
+Casi Idéntico,288,6,196
+Transposicion,288,3084,334084
+Aleatorio,289,3238,336400
+Palindromo,289,3227,336400
+Repetidos,289,4854,336400
+Casi Idéntico,289,6,196
+Transposicion,289,3024,336400
+Aleatorio,290,3693,338724
+Palindromo,290,3226,338724
+Repetidos,290,5026,338724
+Casi Idéntico,290,6,196
+Transposicion,290,3489,338724
+Aleatorio,291,3352,341056
+Palindromo,291,3277,341056
+Repetidos,291,5224,341056
+Casi Idéntico,291,4,196
+Transposicion,291,3208,341056
+Aleatorio,292,3465,343396
+Palindromo,292,3370,343396
+Repetidos,292,4719,343396
+Casi Idéntico,292,5,196
+Transposicion,292,3186,343396
+Aleatorio,293,3161,345744
+Palindromo,293,3720,345744
+Repetidos,293,4864,345744
+Casi Idéntico,293,4,196
+Transposicion,293,3257,345744
+Aleatorio,294,3648,348100
+Palindromo,294,3325,348100
+Repetidos,294,4906,348100
+Casi Idéntico,294,4,196
+Transposicion,294,3778,348100
+Aleatorio,295,3253,350464
+Palindromo,295,3467,350464
+Repetidos,295,4933,350464
+Casi Idéntico,295,4,196
+Transposicion,295,3274,350464
+Aleatorio,296,3234,352836
+Palindromo,296,3365,352836
+Repetidos,296,5451,352836
+Casi Idéntico,296,4,196
+Transposicion,296,3344,352836
+Aleatorio,297,3384,355216
+Palindromo,297,3363,355216
+Repetidos,297,5292,355216
+Casi Idéntico,297,5,196
+Transposicion,297,3406,355216
+Aleatorio,298,3337,357604
+Palindromo,298,3752,357604
+Repetidos,298,4905,357604
+Casi Idéntico,298,6,196
+Transposicion,298,3316,357604
+Aleatorio,299,3730,360000
+Palindromo,299,3657,360000
+Repetidos,299,4775,360000
+Casi Idéntico,299,6,196
+Transposicion,299,3498,360000
+Aleatorio,300,3669,362404
+Palindromo,300,3523,362404
+Repetidos,300,5795,362404
+Casi Idéntico,300,8,196
+Transposicion,300,3498,362404
+Aleatorio,301,3447,364816
+Palindromo,301,3678,364816
+Repetidos,301,5620,364816
+Casi Idéntico,301,5,196
+Transposicion,301,3378,364816
+Aleatorio,302,3542,367236
+Palindromo,302,3523,367236
+Repetidos,302,4968,367236
+Casi Idéntico,302,5,196
+Transposicion,302,3413,367236
+Aleatorio,303,3473,369664
+Palindromo,303,3522,369664
+Repetidos,303,5407,369664
+Casi Idéntico,303,5,196
+Transposicion,303,3370,369664
+Aleatorio,304,3496,372100
+Palindromo,304,3574,372100
+Repetidos,304,4925,372100
+Casi Idéntico,304,3,196
+Transposicion,304,3353,372100
+Aleatorio,305,3538,374544
+Palindromo,305,3569,374544
+Repetidos,305,5323,374544
+Casi Idéntico,305,3,196
+Transposicion,305,3386,374544
+Aleatorio,306,3651,376996
+Palindromo,306,3642,376996
+Repetidos,306,5821,376996
+Casi Idéntico,306,3,196
+Transposicion,306,3458,376996
+Aleatorio,307,3470,379456
+Palindromo,307,3645,379456
+Repetidos,307,6176,379456
+Casi Idéntico,307,4,196
+Transposicion,307,3469,379456
+Aleatorio,308,3669,381924
+Palindromo,308,4265,381924
+Repetidos,308,5501,381924
+Casi Idéntico,308,5,196
+Transposicion,308,3507,381924
+Aleatorio,309,4013,384400
+Palindromo,309,3720,384400
+Repetidos,309,5324,384400
+Casi Idéntico,309,5,196
+Transposicion,309,3722,384400
+Aleatorio,310,3904,386884
+Palindromo,310,3926,386884
+Repetidos,310,5579,386884
+Casi Idéntico,310,6,196
+Transposicion,310,3571,386884
+Aleatorio,311,3970,389376
+Palindromo,311,3823,389376
+Repetidos,311,4927,389376
+Casi Idéntico,311,5,196
+Transposicion,311,3605,389376
+Aleatorio,312,3972,391876
+Palindromo,312,3736,391876
+Repetidos,312,5277,391876
+Casi Idéntico,312,6,196
+Transposicion,312,4007,391876
+Aleatorio,313,3696,394384
+Palindromo,313,3750,394384
+Repetidos,313,6067,394384
+Casi Idéntico,313,5,196
+Transposicion,313,3540,394384
+Aleatorio,314,3858,396900
+Palindromo,314,4213,396900
+Repetidos,314,5317,396900
+Casi Idéntico,314,5,196
+Transposicion,314,3650,396900
+Aleatorio,315,4028,399424
+Palindromo,315,3835,399424
+Repetidos,315,5654,399424
+Casi Idéntico,315,12,196
+Transposicion,315,3649,399424
+Aleatorio,316,3815,401956
+Palindromo,316,3770,401956
+Repetidos,316,5604,401956
+Casi Idéntico,316,4,196
+Transposicion,316,3523,401956
+Aleatorio,317,3729,404496
+Palindromo,317,3785,404496
+Repetidos,317,5759,404496
+Casi Idéntico,317,5,196
+Transposicion,317,3637,404496
+Aleatorio,318,4117,407044
+Palindromo,318,3851,407044
+Repetidos,318,5802,407044
+Casi Idéntico,318,4,196
+Transposicion,318,3533,407044
+Aleatorio,319,3881,409600
+Palindromo,319,3895,409600
+Repetidos,319,5882,409600
+Casi Idéntico,319,5,196
+Transposicion,319,3623,409600
+Aleatorio,320,4336,412164
+Palindromo,320,3926,412164
+Repetidos,320,6039,412164
+Casi Idéntico,320,3,196
+Transposicion,320,4057,412164
+Aleatorio,321,4212,414736
+Palindromo,321,4175,414736
+Repetidos,321,6334,414736
+Casi Idéntico,321,5,196
+Transposicion,321,3769,414736
+Aleatorio,322,3835,417316
+Palindromo,322,4145,417316
+Repetidos,322,6041,417316
+Casi Idéntico,322,6,196
+Transposicion,322,3907,417316
+Aleatorio,323,4083,419904
+Palindromo,323,4000,419904
+Repetidos,323,5665,419904
+Casi Idéntico,323,8,196
+Transposicion,323,3814,419904
+Aleatorio,324,3983,422500
+Palindromo,324,3954,422500
+Repetidos,324,5913,422500
+Casi Idéntico,324,3,196
+Transposicion,324,3835,422500
+Aleatorio,325,4359,425104
+Palindromo,325,3995,425104
+Repetidos,325,6134,425104
+Casi Idéntico,325,3,196
+Transposicion,325,3915,425104
+Aleatorio,326,4237,427716
+Palindromo,326,4092,427716
+Repetidos,326,6235,427716
+Casi Idéntico,326,5,196
+Transposicion,326,3885,427716
+Aleatorio,327,4041,430336
+Palindromo,327,4270,430336
+Repetidos,327,6265,430336
+Casi Idéntico,327,3,196
+Transposicion,327,3874,430336
+Aleatorio,328,4407,432964
+Palindromo,328,3992,432964
+Repetidos,328,6030,432964
+Casi Idéntico,328,3,196
+Transposicion,328,3926,432964
+Aleatorio,329,4411,435600
+Palindromo,329,4208,435600
+Repetidos,329,6513,435600
+Casi Idéntico,329,8,196
+Transposicion,329,3980,435600
+Aleatorio,330,4614,438244
+Palindromo,330,4326,438244
+Repetidos,330,5738,438244
+Casi Idéntico,330,6,196
+Transposicion,330,4103,438244
+Aleatorio,331,4257,440896
+Palindromo,331,4401,440896
+Repetidos,331,6043,440896
+Casi Idéntico,331,5,196
+Transposicion,331,3823,440896
+Aleatorio,332,4489,443556
+Palindromo,332,4260,443556
+Repetidos,332,6146,443556
+Casi Idéntico,332,5,196
+Transposicion,332,4157,443556
+Aleatorio,333,4256,446224
+Palindromo,333,4229,446224
+Repetidos,333,6529,446224
+Casi Idéntico,333,5,196
+Transposicion,333,4064,446224
+Aleatorio,334,4504,448900
+Palindromo,334,4254,448900
+Repetidos,334,6344,448900
+Casi Idéntico,334,4,196
+Transposicion,334,4356,448900
+Aleatorio,335,4273,451584
+Palindromo,335,4455,451584
+Repetidos,335,6506,451584
+Casi Idéntico,335,3,196
+Transposicion,335,4101,451584
+Aleatorio,336,4357,454276
+Palindromo,336,4438,454276
+Repetidos,336,6376,454276
+Casi Idéntico,336,3,196
+Transposicion,336,4322,454276
+Aleatorio,337,4421,456976
+Palindromo,337,4387,456976
+Repetidos,337,7333,456976
+Casi Idéntico,337,5,196
+Transposicion,337,4175,456976
+Aleatorio,338,4591,459684
+Palindromo,338,4834,459684
+Repetidos,338,6459,459684
+Casi Idéntico,338,4,196
+Transposicion,338,4621,459684
+Aleatorio,339,4467,462400
+Palindromo,339,4291,462400
+Repetidos,339,6748,462400
+Casi Idéntico,339,7,196
+Transposicion,339,4039,462400
+Aleatorio,340,4776,465124
+Palindromo,340,4564,465124
+Repetidos,340,6375,465124
+Casi Idéntico,340,5,196
+Transposicion,340,6118,465124
+Aleatorio,341,4345,467856
+Palindromo,341,4882,467856
+Repetidos,341,6818,467856
+Casi Idéntico,341,7,196
+Transposicion,341,4282,467856
+Aleatorio,342,4837,470596
+Palindromo,342,4438,470596
+Repetidos,342,6774,470596
+Casi Idéntico,342,5,196
+Transposicion,342,4143,470596
+Aleatorio,343,4429,473344
+Palindromo,343,4436,473344
+Repetidos,343,6327,473344
+Casi Idéntico,343,6,196
+Transposicion,343,4262,473344
+Aleatorio,344,4373,476100
+Palindromo,344,4491,476100
+Repetidos,344,7161,476100
+Casi Idéntico,344,4,196
+Transposicion,344,4288,476100
+Aleatorio,345,4533,478864
+Palindromo,345,4841,478864
+Repetidos,345,6739,478864
+Casi Idéntico,345,5,196
+Transposicion,345,4574,478864
+Aleatorio,346,4730,481636
+Palindromo,346,4626,481636
+Repetidos,346,7096,481636
+Casi Idéntico,346,4,196
+Transposicion,346,4641,481636
+Aleatorio,347,4769,484416
+Palindromo,347,5013,484416
+Repetidos,347,7263,484416
+Casi Idéntico,347,6,196
+Transposicion,347,4776,484416
+Aleatorio,348,4972,487204
+Palindromo,348,4874,487204
+Repetidos,348,7361,487204
+Casi Idéntico,348,6,196
+Transposicion,348,4686,487204
+Aleatorio,349,4890,490000
+Palindromo,349,4562,490000
+Repetidos,349,6824,490000
+Casi Idéntico,349,9,196
+Transposicion,349,4223,490000
+Aleatorio,350,4522,492804
+Palindromo,350,5046,492804
+Repetidos,350,6638,492804
+Casi Idéntico,350,5,196
+Transposicion,350,4166,492804
+Aleatorio,351,4592,495616
+Palindromo,351,4590,495616
+Repetidos,351,7351,495616
+Casi Idéntico,351,7,196
+Transposicion,351,4578,495616
+Aleatorio,352,4996,498436
+Palindromo,352,5121,498436
+Repetidos,352,7138,498436
+Casi Idéntico,352,5,196
+Transposicion,352,4684,498436
+Aleatorio,353,4717,501264
+Palindromo,353,5038,501264
+Repetidos,353,6817,501264
+Casi Idéntico,353,4,196
+Transposicion,353,4614,501264
+Aleatorio,354,4517,504100
+Palindromo,354,4717,504100
+Repetidos,354,7682,504100
+Casi Idéntico,354,5,196
+Transposicion,354,4579,504100
+Aleatorio,355,4792,506944
+Palindromo,355,4720,506944
+Repetidos,355,7238,506944
+Casi Idéntico,355,6,196
+Transposicion,355,5237,506944
+Aleatorio,356,4974,509796
+Palindromo,356,5093,509796
+Repetidos,356,7129,509796
+Casi Idéntico,356,7,196
+Transposicion,356,4826,509796
+Aleatorio,357,4718,512656
+Palindromo,357,4561,512656
+Repetidos,357,7435,512656
+Casi Idéntico,357,8,196
+Transposicion,357,4572,512656
+Aleatorio,358,5064,515524
+Palindromo,358,5121,515524
+Repetidos,358,6986,515524
+Casi Idéntico,358,6,196
+Transposicion,358,4776,515524
+Aleatorio,359,4765,518400
+Palindromo,359,5054,518400
+Repetidos,359,7325,518400
+Casi Idéntico,359,7,196
+Transposicion,359,5413,518400
+Aleatorio,360,4937,521284
+Palindromo,360,5000,521284
+Repetidos,360,7077,521284
+Casi Idéntico,360,6,196
+Transposicion,360,4784,521284
+Aleatorio,361,5021,524176
+Palindromo,361,4908,524176
+Repetidos,361,7824,524176
+Casi Idéntico,361,5,196
+Transposicion,361,4800,524176
+Aleatorio,362,5128,527076
+Palindromo,362,4850,527076
+Repetidos,362,7602,527076
+Casi Idéntico,362,4,196
+Transposicion,362,4713,527076
+Aleatorio,363,5045,529984
+Palindromo,363,5131,529984
+Repetidos,363,7563,529984
+Casi Idéntico,363,6,196
+Transposicion,363,4839,529984
+Aleatorio,364,5229,532900
+Palindromo,364,4801,532900
+Repetidos,364,8067,532900
+Casi Idéntico,364,6,196
+Transposicion,364,4998,532900
+Aleatorio,365,5194,535824
+Palindromo,365,5073,535824
+Repetidos,365,7877,535824
+Casi Idéntico,365,6,196
+Transposicion,365,4758,535824
+Aleatorio,366,4974,538756
+Palindromo,366,5109,538756
+Repetidos,366,7322,538756
+Casi Idéntico,366,6,196
+Transposicion,366,5268,538756
+Aleatorio,367,5233,541696
+Palindromo,367,4955,541696
+Repetidos,367,7054,541696
+Casi Idéntico,367,7,196
+Transposicion,367,5007,541696
+Aleatorio,368,5091,544644
+Palindromo,368,5115,544644
+Repetidos,368,7603,544644
+Casi Idéntico,368,18,196
+Transposicion,368,5010,544644
+Aleatorio,369,5609,547600
+Palindromo,369,5180,547600
+Repetidos,369,7199,547600
+Casi Idéntico,369,5,196
+Transposicion,369,4906,547600
+Aleatorio,370,5102,550564
+Palindromo,370,5411,550564
+Repetidos,370,7877,550564
+Casi Idéntico,370,4,196
+Transposicion,370,5398,550564
+Aleatorio,371,5335,553536
+Palindromo,371,5415,553536
+Repetidos,371,8658,553536
+Casi Idéntico,371,7,196
+Transposicion,371,4836,553536
+Aleatorio,372,5753,556516
+Palindromo,372,5388,556516
+Repetidos,372,7855,556516
+Casi Idéntico,372,6,196
+Transposicion,372,4971,556516
+Aleatorio,373,5454,559504
+Palindromo,373,5167,559504
+Repetidos,373,8640,559504
+Casi Idéntico,373,6,196
+Transposicion,373,4819,559504
+Aleatorio,374,5140,562500
+Palindromo,374,5497,562500
+Repetidos,374,7349,562500
+Casi Idéntico,374,6,196
+Transposicion,374,5485,562500
+Aleatorio,375,5078,565504
+Palindromo,375,5507,565504
+Repetidos,375,7963,565504
+Casi Idéntico,375,6,196
+Transposicion,375,5271,565504
+Aleatorio,376,5021,568516
+Palindromo,376,5331,568516
+Repetidos,376,8195,568516
+Casi Idéntico,376,4,196
+Transposicion,376,4930,568516
+Aleatorio,377,5683,571536
+Palindromo,377,5411,571536
+Repetidos,377,8238,571536
+Casi Idéntico,377,5,196
+Transposicion,377,4991,571536
+Aleatorio,378,5442,574564
+Palindromo,378,5749,574564
+Repetidos,378,7942,574564
+Casi Idéntico,378,3,196
+Transposicion,378,5325,574564
+Aleatorio,379,5541,577600
+Palindromo,379,5925,577600
+Repetidos,379,7858,577600
+Casi Idéntico,379,7,196
+Transposicion,379,5517,577600
+Aleatorio,380,5886,580644
+Palindromo,380,5817,580644
+Repetidos,380,7808,580644
+Casi Idéntico,380,5,196
+Transposicion,380,5651,580644
+Aleatorio,381,5516,583696
+Palindromo,381,5038,583696
+Repetidos,381,8288,583696
+Casi Idéntico,381,9,196
+Transposicion,381,5257,583696
+Aleatorio,382,5621,586756
+Palindromo,382,5292,586756
+Repetidos,382,8546,586756
+Casi Idéntico,382,6,196
+Transposicion,382,5257,586756
+Aleatorio,383,5850,589824
+Palindromo,383,5513,589824
+Repetidos,383,8612,589824
+Casi Idéntico,383,6,196
+Transposicion,383,5184,589824
+Aleatorio,384,5489,592900
+Palindromo,384,5678,592900
+Repetidos,384,8590,592900
+Casi Idéntico,384,5,196
+Transposicion,384,5499,592900
+Aleatorio,385,5662,595984
+Palindromo,385,5853,595984
+Repetidos,385,8486,595984
+Casi Idéntico,385,5,196
+Transposicion,385,5502,595984
+Aleatorio,386,5606,599076
+Palindromo,386,5660,599076
+Repetidos,386,9296,599076
+Casi Idéntico,386,5,196
+Transposicion,386,5434,599076
+Aleatorio,387,5559,602176
+Palindromo,387,5493,602176
+Repetidos,387,8222,602176
+Casi Idéntico,387,7,196
+Transposicion,387,5401,602176
+Aleatorio,388,6044,605284
+Palindromo,388,5642,605284
+Repetidos,388,8790,605284
+Casi Idéntico,388,6,196
+Transposicion,388,5604,605284
+Aleatorio,389,6364,608400
+Palindromo,389,5676,608400
+Repetidos,389,8893,608400
+Casi Idéntico,389,8,196
+Transposicion,389,5163,608400
+Aleatorio,390,6475,611524
+Palindromo,390,5752,611524
+Repetidos,390,8718,611524
+Casi Idéntico,390,6,196
+Transposicion,390,5488,611524
+Aleatorio,391,6119,614656
+Palindromo,391,5537,614656
+Repetidos,391,8635,614656
+Casi Idéntico,391,7,196
+Transposicion,391,5630,614656
+Aleatorio,392,5501,617796
+Palindromo,392,5831,617796
+Repetidos,392,8807,617796
+Casi Idéntico,392,4,196
+Transposicion,392,5539,617796
+Aleatorio,393,5503,620944
+Palindromo,393,6107,620944
+Repetidos,393,8116,620944
+Casi Idéntico,393,7,196
+Transposicion,393,5915,620944
+Aleatorio,394,5580,624100
+Palindromo,394,6150,624100
+Repetidos,394,8675,624100
+Casi Idéntico,394,6,196
+Transposicion,394,5912,624100
+Aleatorio,395,6150,627264
+Palindromo,395,6380,627264
+Repetidos,395,8606,627264
+Casi Idéntico,395,9,196
+Transposicion,395,5922,627264
+Aleatorio,396,5817,630436
+Palindromo,396,6519,630436
+Repetidos,396,8767,630436
+Casi Idéntico,396,7,196
+Transposicion,396,6649,630436
+Aleatorio,397,6676,633616
+Palindromo,397,6528,633616
+Repetidos,397,8823,633616
+Casi Idéntico,397,6,196
+Transposicion,397,5836,633616
+Aleatorio,398,6221,636804
+Palindromo,398,5763,636804
+Repetidos,398,9001,636804
+Casi Idéntico,398,5,196
+Transposicion,398,5900,636804
+Aleatorio,399,5914,640000
+Palindromo,399,5881,640000
+Repetidos,399,8864,640000
+Casi Idéntico,399,6,196
+Transposicion,399,5514,640000
+Aleatorio,400,6119,643204
+Palindromo,400,6057,643204
+Repetidos,400,9778,643204
+Casi Idéntico,400,5,196
+Transposicion,400,5884,643204
+Aleatorio,401,6508,646416
+Palindromo,401,6188,646416
+Repetidos,401,9459,646416
+Casi Idéntico,401,11,196
+Transposicion,401,5897,646416
+Aleatorio,402,6403,649636
+Palindromo,402,5996,649636
+Repetidos,402,8709,649636
+Casi Idéntico,402,5,196
+Transposicion,402,5271,649636
+Aleatorio,403,6346,652864
+Palindromo,403,6013,652864
+Repetidos,403,8945,652864
+Casi Idéntico,403,8,196
+Transposicion,403,5904,652864
+Aleatorio,404,6355,656100
+Palindromo,404,5777,656100
+Repetidos,404,8636,656100
+Casi Idéntico,404,6,196
+Transposicion,404,6066,656100
+Aleatorio,405,6356,659344
+Palindromo,405,6172,659344
+Repetidos,405,9467,659344
+Casi Idéntico,405,6,196
+Transposicion,405,5839,659344
+Aleatorio,406,6444,662596
+Palindromo,406,6099,662596
+Repetidos,406,9345,662596
+Casi Idéntico,406,4,196
+Transposicion,406,6067,662596
+Aleatorio,407,6966,665856
+Palindromo,407,6256,665856
+Repetidos,407,9738,665856
+Casi Idéntico,407,7,196
+Transposicion,407,5782,665856
+Aleatorio,408,6971,669124
+Palindromo,408,6345,669124
+Repetidos,408,9683,669124
+Casi Idéntico,408,6,196
+Transposicion,408,5862,669124
+Aleatorio,409,6681,672400
+Palindromo,409,6090,672400
+Repetidos,409,10278,672400
+Casi Idéntico,409,7,196
+Transposicion,409,6122,672400
+Aleatorio,410,6175,675684
+Palindromo,410,6377,675684
+Repetidos,410,9161,675684
+Casi Idéntico,410,5,196
+Transposicion,410,6510,675684
+Aleatorio,411,6256,678976
+Palindromo,411,6422,678976
+Repetidos,411,9116,678976
+Casi Idéntico,411,19,196
+Transposicion,411,6767,678976
+Aleatorio,412,6402,682276
+Palindromo,412,6692,682276
+Repetidos,412,10395,682276
+Casi Idéntico,412,6,196
+Transposicion,412,5942,682276
+Aleatorio,413,6190,685584
+Palindromo,413,6435,685584
+Repetidos,413,9506,685584
+Casi Idéntico,413,5,196
+Transposicion,413,6141,685584
+Aleatorio,414,6379,688900
+Palindromo,414,6618,688900
+Repetidos,414,9884,688900
+Casi Idéntico,414,6,196
+Transposicion,414,5771,688900
+Aleatorio,415,6499,692224
+Palindromo,415,6450,692224
+Repetidos,415,9798,692224
+Casi Idéntico,415,7,196
+Transposicion,415,6150,692224
+Aleatorio,416,6808,695556
+Palindromo,416,7126,695556
+Repetidos,416,9083,695556
+Casi Idéntico,416,6,196
+Transposicion,416,6665,695556
+Aleatorio,417,7753,698896
+Palindromo,417,7761,698896
+Repetidos,417,9833,698896
+Casi Idéntico,417,7,196
+Transposicion,417,6226,698896
+Aleatorio,418,6564,702244
+Palindromo,418,7311,702244
+Repetidos,418,10272,702244
+Casi Idéntico,418,4,196
+Transposicion,418,6505,702244
+Aleatorio,419,6971,705600
+Palindromo,419,6629,705600
+Repetidos,419,10182,705600
+Casi Idéntico,419,5,196
+Transposicion,419,6423,705600
+Aleatorio,420,7131,708964
+Palindromo,420,6741,708964
+Repetidos,420,10867,708964
+Casi Idéntico,420,7,196
+Transposicion,420,7089,708964
+Aleatorio,421,6843,712336
+Palindromo,421,6744,712336
+Repetidos,421,9381,712336
+Casi Idéntico,421,7,196
+Transposicion,421,6846,712336
+Aleatorio,422,6848,715716
+Palindromo,422,7086,715716
+Repetidos,422,9974,715716
+Casi Idéntico,422,7,196
+Transposicion,422,6563,715716
+Aleatorio,423,7354,719104
+Palindromo,423,6444,719104
+Repetidos,423,10741,719104
+Casi Idéntico,423,10,196
+Transposicion,423,6818,719104
+Aleatorio,424,6677,722500
+Palindromo,424,6469,722500
+Repetidos,424,10116,722500
+Casi Idéntico,424,5,196
+Transposicion,424,6684,722500
+Aleatorio,425,6675,725904
+Palindromo,425,7162,725904
+Repetidos,425,10365,725904
+Casi Idéntico,425,5,196
+Transposicion,425,6907,725904
+Aleatorio,426,6633,729316
+Palindromo,426,7054,729316
+Repetidos,426,10371,729316
+Casi Idéntico,426,5,196
+Transposicion,426,6842,729316
+Aleatorio,427,8266,732736
+Palindromo,427,6970,732736
+Repetidos,427,10421,732736
+Casi Idéntico,427,8,196
+Transposicion,427,7122,732736
+Aleatorio,428,6689,736164
+Palindromo,428,7228,736164
+Repetidos,428,9800,736164
+Casi Idéntico,428,6,196
+Transposicion,428,7220,736164
+Aleatorio,429,6949,739600
+Palindromo,429,7218,739600
+Repetidos,429,10901,739600
+Casi Idéntico,429,8,196
+Transposicion,429,7073,739600
+Aleatorio,430,7652,743044
+Palindromo,430,6711,743044
+Repetidos,430,10929,743044
+Casi Idéntico,430,7,196
+Transposicion,430,6814,743044
+Aleatorio,431,6953,746496
+Palindromo,431,7089,746496
+Repetidos,431,10199,746496
+Casi Idéntico,431,11,196
+Transposicion,431,6966,746496
+Aleatorio,432,6734,749956
+Palindromo,432,7304,749956
+Repetidos,432,10205,749956
+Casi Idéntico,432,4,196
+Transposicion,432,6733,749956
+Aleatorio,433,6557,753424
+Palindromo,433,6929,753424
+Repetidos,433,11285,753424
+Casi Idéntico,433,7,196
+Transposicion,433,6717,753424
+Aleatorio,434,7623,756900
+Palindromo,434,7015,756900
+Repetidos,434,10770,756900
+Casi Idéntico,434,6,196
+Transposicion,434,7314,756900
+Aleatorio,435,7033,760384
+Palindromo,435,7062,760384
+Repetidos,435,10813,760384
+Casi Idéntico,435,7,196
+Transposicion,435,6534,760384
+Aleatorio,436,7078,763876
+Palindromo,436,7356,763876
+Repetidos,436,10862,763876
+Casi Idéntico,436,5,196
+Transposicion,436,6695,763876
+Aleatorio,437,6812,767376
+Palindromo,437,6516,767376
+Repetidos,437,10753,767376
+Casi Idéntico,437,6,196
+Transposicion,437,7189,767376
+Aleatorio,438,7291,770884
+Palindromo,438,7696,770884
+Repetidos,438,11144,770884
+Casi Idéntico,438,5,196
+Transposicion,438,6894,770884
+Aleatorio,439,8076,774400
+Palindromo,439,6931,774400
+Repetidos,439,11130,774400
+Casi Idéntico,439,9,196
+Transposicion,439,7238,774400
+Aleatorio,440,7579,777924
+Palindromo,440,7246,777924
+Repetidos,440,10194,777924
+Casi Idéntico,440,6,196
+Transposicion,440,7780,777924
+Aleatorio,441,7256,781456
+Palindromo,441,7281,781456
+Repetidos,441,11394,781456
+Casi Idéntico,441,8,196
+Transposicion,441,7420,781456
+Aleatorio,442,7713,784996
+Palindromo,442,7467,784996
+Repetidos,442,11099,784996
+Casi Idéntico,442,5,196
+Transposicion,442,7220,784996
+Aleatorio,443,7203,788544
+Palindromo,443,7770,788544
+Repetidos,443,10324,788544
+Casi Idéntico,443,6,196
+Transposicion,443,7563,788544
+Aleatorio,444,7730,792100
+Palindromo,444,7703,792100
+Repetidos,444,11126,792100
+Casi Idéntico,444,5,196
+Transposicion,444,7438,792100
+Aleatorio,445,7064,795664
+Palindromo,445,7521,795664
+Repetidos,445,11163,795664
+Casi Idéntico,445,13,196
+Transposicion,445,7071,795664
+Aleatorio,446,7779,799236
+Palindromo,446,7163,799236
+Repetidos,446,11646,799236
+Casi Idéntico,446,6,196
+Transposicion,446,7399,799236
+Aleatorio,447,7092,802816
+Palindromo,447,7644,802816
+Repetidos,447,10511,802816
+Casi Idéntico,447,7,196
+Transposicion,447,6854,802816
+Aleatorio,448,8120,806404
+Palindromo,448,7355,806404
+Repetidos,448,11348,806404
+Casi Idéntico,448,5,196
+Transposicion,448,7389,806404
+Aleatorio,449,7436,810000
+Palindromo,449,7964,810000
+Repetidos,449,12903,810000
+Casi Idéntico,449,6,196
+Transposicion,449,7658,810000
+Aleatorio,450,8185,813604
+Palindromo,450,8023,813604
+Repetidos,450,11114,813604
+Casi Idéntico,450,8,196
+Transposicion,450,7556,813604
+Aleatorio,451,7461,817216
+Palindromo,451,7908,817216
+Repetidos,451,10865,817216
+Casi Idéntico,451,11,196
+Transposicion,451,7257,817216
+Aleatorio,452,7899,820836
+Palindromo,452,7671,820836
+Repetidos,452,10606,820836
+Casi Idéntico,452,6,196
+Transposicion,452,7774,820836
+Aleatorio,453,7618,824464
+Palindromo,453,8081,824464
+Repetidos,453,10309,824464
+Casi Idéntico,453,6,196
+Transposicion,453,7258,824464
+Aleatorio,454,7847,828100
+Palindromo,454,7729,828100
+Repetidos,454,11177,828100
+Casi Idéntico,454,5,196
+Transposicion,454,7340,828100
+Aleatorio,455,8026,831744
+Palindromo,455,8142,831744
+Repetidos,455,10707,831744
+Casi Idéntico,455,6,196
+Transposicion,455,7184,831744
+Aleatorio,456,8145,835396
+Palindromo,456,8007,835396
+Repetidos,456,11721,835396
+Casi Idéntico,456,7,196
+Transposicion,456,7919,835396
+Aleatorio,457,7885,839056
+Palindromo,457,8564,839056
+Repetidos,457,11480,839056
+Casi Idéntico,457,6,196
+Transposicion,457,7227,839056
+Aleatorio,458,7928,842724
+Palindromo,458,7498,842724
+Repetidos,458,11677,842724
+Casi Idéntico,458,5,196
+Transposicion,458,7937,842724
+Aleatorio,459,7951,846400
+Palindromo,459,8202,846400
+Repetidos,459,11807,846400
+Casi Idéntico,459,6,196
+Transposicion,459,7511,846400
+Aleatorio,460,8231,850084
+Palindromo,460,7660,850084
+Repetidos,460,11908,850084
+Casi Idéntico,460,4,196
+Transposicion,460,7857,850084
+Aleatorio,461,8642,853776
+Palindromo,461,8600,853776
+Repetidos,461,12402,853776
+Casi Idéntico,461,8,196
+Transposicion,461,8720,853776
+Aleatorio,462,8682,857476
+Palindromo,462,8596,857476
+Repetidos,462,11900,857476
+Casi Idéntico,462,5,196
+Transposicion,462,7294,857476
+Aleatorio,463,8132,861184
+Palindromo,463,7832,861184
+Repetidos,463,11767,861184
+Casi Idéntico,463,8,196
+Transposicion,463,8235,861184
+Aleatorio,464,7843,864900
+Palindromo,464,8143,864900
+Repetidos,464,12163,864900
+Casi Idéntico,464,5,196
+Transposicion,464,7278,864900
+Aleatorio,465,7734,868624
+Palindromo,465,7399,868624
+Repetidos,465,11975,868624
+Casi Idéntico,465,6,196
+Transposicion,465,7689,868624
+Aleatorio,466,7417,872356
+Palindromo,466,8183,872356
+Repetidos,466,12236,872356
+Casi Idéntico,466,7,196
+Transposicion,466,7866,872356
+Aleatorio,467,8276,876096
+Palindromo,467,8450,876096
+Repetidos,467,12298,876096
+Casi Idéntico,467,16,196
+Transposicion,467,7564,876096
+Aleatorio,468,8649,879844
+Palindromo,468,8303,879844
+Repetidos,468,11402,879844
+Casi Idéntico,468,6,196
+Transposicion,468,7475,879844
+Aleatorio,469,8146,883600
+Palindromo,469,7959,883600
+Repetidos,469,11798,883600
+Casi Idéntico,469,7,196
+Transposicion,469,8287,883600
+Aleatorio,470,7787,887364
+Palindromo,470,8199,887364
+Repetidos,470,12234,887364
+Casi Idéntico,470,4,196
+Transposicion,470,7935,887364
+Aleatorio,471,8429,891136
+Palindromo,471,7423,891136
+Repetidos,471,12186,891136
+Casi Idéntico,471,8,196
+Transposicion,471,8500,891136
+Aleatorio,472,8862,894916
+Palindromo,472,8699,894916
+Repetidos,472,11959,894916
+Casi Idéntico,472,5,196
+Transposicion,472,8756,894916
+Aleatorio,473,7899,898704
+Palindromo,473,8635,898704
+Repetidos,473,12878,898704
+Casi Idéntico,473,7,196
+Transposicion,473,9667,898704
+Aleatorio,474,8435,902500
+Palindromo,474,8188,902500
+Repetidos,474,12806,902500
+Casi Idéntico,474,6,196
+Transposicion,474,7673,902500
+Aleatorio,475,8348,906304
+Palindromo,475,8083,906304
+Repetidos,475,11673,906304
+Casi Idéntico,475,10,196
+Transposicion,475,7742,906304
+Aleatorio,476,8455,910116
+Palindromo,476,8016,910116
+Repetidos,476,11984,910116
+Casi Idéntico,476,4,196
+Transposicion,476,8605,910116
+Aleatorio,477,8301,913936
+Palindromo,477,8986,913936
+Repetidos,477,13024,913936
+Casi Idéntico,477,7,196
+Transposicion,477,8286,913936
+Aleatorio,478,8178,917764
+Palindromo,478,8645,917764
+Repetidos,478,12554,917764
+Casi Idéntico,478,5,196
+Transposicion,478,7698,917764
+Aleatorio,479,8639,921600
+Palindromo,479,8850,921600
+Repetidos,479,11942,921600
+Casi Idéntico,479,9,196
+Transposicion,479,7630,921600
+Aleatorio,480,8576,925444
+Palindromo,480,8439,925444
+Repetidos,480,12177,925444
+Casi Idéntico,480,5,196
+Transposicion,480,8417,925444
+Aleatorio,481,8624,929296
+Palindromo,481,8454,929296
+Repetidos,481,12823,929296
+Casi Idéntico,481,5,196
+Transposicion,481,8762,929296
+Aleatorio,482,8482,933156
+Palindromo,482,8915,933156
+Repetidos,482,12405,933156
+Casi Idéntico,482,6,196
+Transposicion,482,7840,933156
+Aleatorio,483,8513,937024
+Palindromo,483,8811,937024
+Repetidos,483,12871,937024
+Casi Idéntico,483,8,196
+Transposicion,483,8256,937024
+Aleatorio,484,8855,940900
+Palindromo,484,8949,940900
+Repetidos,484,12442,940900
+Casi Idéntico,484,5,196
+Transposicion,484,8151,940900
+Aleatorio,485,9073,944784
+Palindromo,485,8014,944784
+Repetidos,485,11716,944784
+Casi Idéntico,485,6,196
+Transposicion,485,8452,944784
+Aleatorio,486,8454,948676
+Palindromo,486,8752,948676
+Repetidos,486,13709,948676
+Casi Idéntico,486,5,196
+Transposicion,486,9085,948676
+Aleatorio,487,8141,952576
+Palindromo,487,8842,952576
+Repetidos,487,13410,952576
+Casi Idéntico,487,8,196
+Transposicion,487,11164,952576
+Aleatorio,488,9167,956484
+Palindromo,488,9363,956484
+Repetidos,488,13442,956484
+Casi Idéntico,488,7,196
+Transposicion,488,8546,956484
+Aleatorio,489,9081,960400
+Palindromo,489,8357,960400
+Repetidos,489,12582,960400
+Casi Idéntico,489,7,196
+Transposicion,489,8272,960400
+Aleatorio,490,8735,964324
+Palindromo,490,8486,964324
+Repetidos,490,12846,964324
+Casi Idéntico,490,4,196
+Transposicion,490,8789,964324
+Aleatorio,491,8923,968256
+Palindromo,491,9286,968256
+Repetidos,491,14571,968256
+Casi Idéntico,491,8,196
+Transposicion,491,8759,968256
+Aleatorio,492,8901,972196
+Palindromo,492,9536,972196
+Repetidos,492,14355,972196
+Casi Idéntico,492,6,196
+Transposicion,492,9170,972196
+Aleatorio,493,8709,976144
+Palindromo,493,8740,976144
+Repetidos,493,12753,976144
+Casi Idéntico,493,7,196
+Transposicion,493,8596,976144
+Aleatorio,494,8877,980100
+Palindromo,494,9035,980100
+Repetidos,494,12783,980100
+Casi Idéntico,494,5,196
+Transposicion,494,8105,980100
+Aleatorio,495,8967,984064
+Palindromo,495,8538,984064
+Repetidos,495,12016,984064
+Casi Idéntico,495,6,196
+Transposicion,495,8384,984064
+Aleatorio,496,9607,988036
+Palindromo,496,8719,988036
+Repetidos,496,14634,988036
+Casi Idéntico,496,6,196
+Transposicion,496,8757,988036
+Aleatorio,497,9116,992016
+Palindromo,497,8781,992016
+Repetidos,497,13768,992016
+Casi Idéntico,497,14,196
+Transposicion,497,8865,992016
+Aleatorio,498,8834,996004
+Palindromo,498,9337,996004
+Repetidos,498,12953,996004
+Casi Idéntico,498,7,196
+Transposicion,498,9034,996004
+Aleatorio,499,9041,1000000
+Palindromo,499,9329,1000000
+Repetidos,499,14092,1000000
+Casi Idéntico,499,7,196
+Transposicion,499,8354,1000000
+Aleatorio,500,9065,1004004
+Palindromo,500,9505,1004004
+Repetidos,500,13728,1004004
+Casi Idéntico,500,4,196
+Transposicion,500,8429,1004004
+Aleatorio,501,9361,1008016
+Palindromo,501,9504,1008016
+Repetidos,501,13783,1008016
+Casi Idéntico,501,7,196
+Transposicion,501,8776,1008016
+Aleatorio,502,9882,1012036
+Palindromo,502,9947,1012036
+Repetidos,502,13310,1012036
+Casi Idéntico,502,8,196
+Transposicion,502,8543,1012036
+Aleatorio,503,9450,1016064
+Palindromo,503,9547,1016064
+Repetidos,503,14479,1016064
+Casi Idéntico,503,15,196
+Transposicion,503,8857,1016064
+Aleatorio,504,9364,1020100
+Palindromo,504,9478,1020100
+Repetidos,504,13778,1020100
+Casi Idéntico,504,4,196
+Transposicion,504,8573,1020100
+Aleatorio,505,9565,1024144
+Palindromo,505,9390,1024144
+Repetidos,505,14009,1024144
+Casi Idéntico,505,9,196
+Transposicion,505,8929,1024144
+Aleatorio,506,9513,1028196
+Palindromo,506,9911,1028196
+Repetidos,506,13856,1028196
+Casi Idéntico,506,5,196
+Transposicion,506,8923,1028196
+Aleatorio,507,9477,1032256
+Palindromo,507,9654,1032256
+Repetidos,507,14100,1032256
+Casi Idéntico,507,7,196
+Transposicion,507,8693,1032256
+Aleatorio,508,9689,1036324
+Palindromo,508,10175,1036324
+Repetidos,508,14276,1036324
+Casi Idéntico,508,6,196
+Transposicion,508,9203,1036324
+Aleatorio,509,9418,1040400
+Palindromo,509,10047,1040400
+Repetidos,509,14552,1040400
+Casi Idéntico,509,6,196
+Transposicion,509,9701,1040400
+Aleatorio,510,9687,1044484
+Palindromo,510,9704,1044484
+Repetidos,510,14519,1044484
+Casi Idéntico,510,5,196
+Transposicion,510,9690,1044484
+Aleatorio,511,10118,1048576
+Palindromo,511,9552,1048576
+Repetidos,511,14722,1048576
+Casi Idéntico,511,8,196
+Transposicion,511,9327,1048576
+Aleatorio,512,10000,1052676
+Palindromo,512,10293,1052676
+Repetidos,512,15159,1052676
+Casi Idéntico,512,6,196
+Transposicion,512,10002,1052676
+Aleatorio,513,9857,1056784
+Palindromo,513,10470,1056784
+Repetidos,513,15012,1056784
+Casi Idéntico,513,6,196
+Transposicion,513,10016,1056784
+Aleatorio,514,10774,1060900
+Palindromo,514,10421,1060900
+Repetidos,514,15369,1060900
+Casi Idéntico,514,13,196
+Transposicion,514,10156,1060900
+Aleatorio,515,10768,1065024
+Palindromo,515,10500,1065024
+Repetidos,515,15380,1065024
+Casi Idéntico,515,10,196
+Transposicion,515,9934,1065024
+Aleatorio,516,10866,1069156
+Palindromo,516,11046,1069156
+Repetidos,516,14695,1069156
+Casi Idéntico,516,6,196
+Transposicion,516,10189,1069156
+Aleatorio,517,10105,1073296
+Palindromo,517,10602,1073296
+Repetidos,517,15455,1073296
+Casi Idéntico,517,6,196
+Transposicion,517,10175,1073296
+Aleatorio,518,10657,1077444
+Palindromo,518,10163,1077444
+Repetidos,518,15335,1077444
+Casi Idéntico,518,4,196
+Transposicion,518,9886,1077444
+Aleatorio,519,10730,1081600
+Palindromo,519,10389,1081600
+Repetidos,519,14805,1081600
+Casi Idéntico,519,7,196
+Transposicion,519,9187,1081600
+Aleatorio,520,10271,1085764
+Palindromo,520,10263,1085764
+Repetidos,520,15198,1085764
+Casi Idéntico,520,5,196
+Transposicion,520,9142,1085764
+Aleatorio,521,9455,1089936
+Palindromo,521,9920,1089936
+Repetidos,521,14687,1089936
+Casi Idéntico,521,18,196
+Transposicion,521,9832,1089936
+Aleatorio,522,9877,1094116
+Palindromo,522,9964,1094116
+Repetidos,522,14428,1094116
+Casi Idéntico,522,5,196
+Transposicion,522,9625,1094116
+Aleatorio,523,9859,1098304
+Palindromo,523,9746,1098304
+Repetidos,523,16136,1098304
+Casi Idéntico,523,15,196
+Transposicion,523,10011,1098304
+Aleatorio,524,9991,1102500
+Palindromo,524,10310,1102500
+Repetidos,524,14870,1102500
+Casi Idéntico,524,6,196
+Transposicion,524,9930,1102500
+Aleatorio,525,10252,1106704
+Palindromo,525,9833,1106704
+Repetidos,525,14806,1106704
+Casi Idéntico,525,9,196
+Transposicion,525,9680,1106704
+Aleatorio,526,10693,1110916
+Palindromo,526,10245,1110916
+Repetidos,526,14259,1110916
+Casi Idéntico,526,5,196
+Transposicion,526,9355,1110916
+Aleatorio,527,10661,1115136
+Palindromo,527,10291,1115136
+Repetidos,527,14852,1115136
+Casi Idéntico,527,13,196
+Transposicion,527,10247,1115136
+Aleatorio,528,10667,1119364
+Palindromo,528,10966,1119364
+Repetidos,528,14921,1119364
+Casi Idéntico,528,6,196
+Transposicion,528,9948,1119364
+Aleatorio,529,10986,1123600
+Palindromo,529,9938,1123600
+Repetidos,529,15188,1123600
+Casi Idéntico,529,8,196
+Transposicion,529,9721,1123600
+Aleatorio,530,10124,1127844
+Palindromo,530,10462,1127844
+Repetidos,530,15007,1127844
+Casi Idéntico,530,4,196
+Transposicion,530,9952,1127844
+Aleatorio,531,9831,1132096
+Palindromo,531,10004,1132096
+Repetidos,531,14233,1132096
+Casi Idéntico,531,6,196
+Transposicion,531,10401,1132096
+Aleatorio,532,11056,1136356
+Palindromo,532,11667,1136356
+Repetidos,532,15572,1136356
+Casi Idéntico,532,6,196
+Transposicion,532,9902,1136356
+Aleatorio,533,10804,1140624
+Palindromo,533,10162,1140624
+Repetidos,533,14570,1140624
+Casi Idéntico,533,16,196
+Transposicion,533,9710,1140624
+Aleatorio,534,10700,1144900
+Palindromo,534,10553,1144900
+Repetidos,534,15557,1144900
+Casi Idéntico,534,5,196
+Transposicion,534,9850,1144900
+Aleatorio,535,10996,1149184
+Palindromo,535,10193,1149184
+Repetidos,535,14482,1149184
+Casi Idéntico,535,6,196
+Transposicion,535,9712,1149184
+Aleatorio,536,11460,1153476
+Palindromo,536,10592,1153476
+Repetidos,536,15860,1153476
+Casi Idéntico,536,6,196
+Transposicion,536,10511,1153476
+Aleatorio,537,10032,1157776
+Palindromo,537,10604,1157776
+Repetidos,537,15912,1157776
+Casi Idéntico,537,16,196
+Transposicion,537,10270,1157776
+Aleatorio,538,10838,1162084
+Palindromo,538,10659,1162084
+Repetidos,538,15417,1162084
+Casi Idéntico,538,5,196
+Transposicion,538,10026,1162084
+Aleatorio,539,10758,1166400
+Palindromo,539,11063,1166400
+Repetidos,539,15166,1166400
+Casi Idéntico,539,6,196
+Transposicion,539,10577,1166400
+Aleatorio,540,10903,1170724
+Palindromo,540,10891,1170724
+Repetidos,540,15926,1170724
+Casi Idéntico,540,6,196
+Transposicion,540,10051,1170724
+Aleatorio,541,10544,1175056
+Palindromo,541,10525,1175056
+Repetidos,541,15074,1175056
+Casi Idéntico,541,9,196
+Transposicion,541,10092,1175056
+Aleatorio,542,10676,1179396
+Palindromo,542,10987,1179396
+Repetidos,542,15642,1179396
+Casi Idéntico,542,5,196
+Transposicion,542,10363,1179396
+Aleatorio,543,10069,1183744
+Palindromo,543,10897,1183744
+Repetidos,543,16099,1183744
+Casi Idéntico,543,6,196
+Transposicion,543,11192,1183744
+Aleatorio,544,11979,1188100
+Palindromo,544,10757,1188100
+Repetidos,544,16157,1188100
+Casi Idéntico,544,9,196
+Transposicion,544,10393,1188100
+Aleatorio,545,10363,1192464
+Palindromo,545,10253,1192464
+Repetidos,545,20107,1192464
+Casi Idéntico,545,7,196
+Transposicion,545,10616,1192464
+Aleatorio,546,10192,1196836
+Palindromo,546,11074,1196836
+Repetidos,546,16622,1196836
+Casi Idéntico,546,5,196
+Transposicion,546,10571,1196836
+Aleatorio,547,11004,1201216
+Palindromo,547,11064,1201216
+Repetidos,547,17367,1201216
+Casi Idéntico,547,7,196
+Transposicion,547,11766,1201216
+Aleatorio,548,12288,1205604
+Palindromo,548,12051,1205604
+Repetidos,548,18867,1205604
+Casi Idéntico,548,13,196
+Transposicion,548,10503,1205604
+Aleatorio,549,10580,1210000
+Palindromo,549,11117,1210000
+Repetidos,549,16410,1210000
+Casi Idéntico,549,12,196
+Transposicion,549,10441,1210000
+Aleatorio,550,11280,1214404
+Palindromo,550,11283,1214404
+Repetidos,550,17059,1214404
+Casi Idéntico,550,5,196
+Transposicion,550,10358,1214404
+Aleatorio,551,11572,1218816
+Palindromo,551,11763,1218816
+Repetidos,551,17069,1218816
+Casi Idéntico,551,9,196
+Transposicion,551,10922,1218816
+Aleatorio,552,11464,1223236
+Palindromo,552,11779,1223236
+Repetidos,552,17281,1223236
+Casi Idéntico,552,6,196
+Transposicion,552,11240,1223236
+Aleatorio,553,10471,1227664
+Palindromo,553,10667,1227664
+Repetidos,553,20803,1227664
+Casi Idéntico,553,15,196
+Transposicion,553,10821,1227664
+Aleatorio,554,10703,1232100
+Palindromo,554,11232,1232100
+Repetidos,554,16265,1232100
+Casi Idéntico,554,5,196
+Transposicion,554,11034,1232100
+Aleatorio,555,11502,1236544
+Palindromo,555,12123,1236544
+Repetidos,555,17524,1236544
+Casi Idéntico,555,8,196
+Transposicion,555,10288,1236544
+Aleatorio,556,11869,1240996
+Palindromo,556,11789,1240996
+Repetidos,556,17118,1240996
+Casi Idéntico,556,5,196
+Transposicion,556,11177,1240996
+Aleatorio,557,11547,1245456
+Palindromo,557,10417,1245456
+Repetidos,557,16845,1245456
+Casi Idéntico,557,7,196
+Transposicion,557,11371,1245456
+Aleatorio,558,11460,1249924
+Palindromo,558,11652,1249924
+Repetidos,558,16105,1249924
+Casi Idéntico,558,5,196
+Transposicion,558,10934,1249924
+Aleatorio,559,12053,1254400
+Palindromo,559,11966,1254400
+Repetidos,559,17135,1254400
+Casi Idéntico,559,8,196
+Transposicion,559,11777,1254400
+Aleatorio,560,11993,1258884
+Palindromo,560,11783,1258884
+Repetidos,560,17755,1258884
+Casi Idéntico,560,6,196
+Transposicion,560,11404,1258884
+Aleatorio,561,11813,1263376
+Palindromo,561,11948,1263376
+Repetidos,561,17060,1263376
+Casi Idéntico,561,7,196
+Transposicion,561,11418,1263376
+Aleatorio,562,12385,1267876
+Palindromo,562,11761,1267876
+Repetidos,562,17994,1267876
+Casi Idéntico,562,6,196
+Transposicion,562,12617,1267876
+Aleatorio,563,12435,1272384
+Palindromo,563,12082,1272384
+Repetidos,563,18490,1272384
+Casi Idéntico,563,9,196
+Transposicion,563,11835,1272384
+Aleatorio,564,12846,1276900
+Palindromo,564,12461,1276900
+Repetidos,564,19998,1276900
+Casi Idéntico,564,5,196
+Transposicion,564,12167,1276900
+Aleatorio,565,12158,1281424
+Palindromo,565,12346,1281424
+Repetidos,565,16905,1281424
+Casi Idéntico,565,6,196
+Transposicion,565,12036,1281424
+Aleatorio,566,12369,1285956
+Palindromo,566,11497,1285956
+Repetidos,566,17707,1285956
+Casi Idéntico,566,5,196
+Transposicion,566,12224,1285956
+Aleatorio,567,13599,1290496
+Palindromo,567,12525,1290496
+Repetidos,567,17129,1290496
+Casi Idéntico,567,18,196
+Transposicion,567,11862,1290496
+Aleatorio,568,14499,1295044
+Palindromo,568,12475,1295044
+Repetidos,568,18282,1295044
+Casi Idéntico,568,5,196
+Transposicion,568,11580,1295044
+Aleatorio,569,12775,1299600
+Palindromo,569,14758,1299600
+Repetidos,569,18471,1299600
+Casi Idéntico,569,7,196
+Transposicion,569,12073,1299600
+Aleatorio,570,13673,1304164
+Palindromo,570,12749,1304164
+Repetidos,570,18973,1304164
+Casi Idéntico,570,6,196
+Transposicion,570,12135,1304164
+Aleatorio,571,14172,1308736
+Palindromo,571,13382,1308736
+Repetidos,571,17666,1308736
+Casi Idéntico,571,9,196
+Transposicion,571,12116,1308736
+Aleatorio,572,12480,1313316
+Palindromo,572,12828,1313316
+Repetidos,572,18933,1313316
+Casi Idéntico,572,5,196
+Transposicion,572,11789,1313316
+Aleatorio,573,13119,1317904
+Palindromo,573,13226,1317904
+Repetidos,573,17923,1317904
+Casi Idéntico,573,10,196
+Transposicion,573,11851,1317904
+Aleatorio,574,12240,1322500
+Palindromo,574,13249,1322500
+Repetidos,574,20455,1322500
+Casi Idéntico,574,5,196
+Transposicion,574,13760,1322500
+Aleatorio,575,13611,1327104
+Palindromo,575,12988,1327104
+Repetidos,575,19219,1327104
+Casi Idéntico,575,7,196
+Transposicion,575,12342,1327104
+Aleatorio,576,13420,1331716
+Palindromo,576,13125,1331716
+Repetidos,576,20507,1331716
+Casi Idéntico,576,6,196
+Transposicion,576,13244,1331716
+Aleatorio,577,13804,1336336
+Palindromo,577,15009,1336336
+Repetidos,577,20431,1336336
+Casi Idéntico,577,10,196
+Transposicion,577,12339,1336336
+Aleatorio,578,13107,1340964
+Palindromo,578,13596,1340964
+Repetidos,578,18865,1340964
+Casi Idéntico,578,6,196
+Transposicion,578,12685,1340964
+Aleatorio,579,13256,1345600
+Palindromo,579,13519,1345600
+Repetidos,579,20080,1345600
+Casi Idéntico,579,8,196
+Transposicion,579,12958,1345600
+Aleatorio,580,13610,1350244
+Palindromo,580,13428,1350244
+Repetidos,580,18977,1350244
+Casi Idéntico,580,6,196
+Transposicion,580,12781,1350244
+Aleatorio,581,13911,1354896
+Palindromo,581,12606,1354896
+Repetidos,581,20505,1354896
+Casi Idéntico,581,15,196
+Transposicion,581,13395,1354896
+Aleatorio,582,13335,1359556
+Palindromo,582,13843,1359556
+Repetidos,582,20006,1359556
+Casi Idéntico,582,5,196
+Transposicion,582,12691,1359556
+Aleatorio,583,14381,1364224
+Palindromo,583,13060,1364224
+Repetidos,583,19878,1364224
+Casi Idéntico,583,8,196
+Transposicion,583,12696,1364224
+Aleatorio,584,13323,1368900
+Palindromo,584,13369,1368900
+Repetidos,584,21264,1368900
+Casi Idéntico,584,9,196
+Transposicion,584,14163,1368900
+Aleatorio,585,13532,1373584
+Palindromo,585,13044,1373584
+Repetidos,585,19882,1373584
+Casi Idéntico,585,8,196
+Transposicion,585,12669,1373584
+Aleatorio,586,14010,1378276
+Palindromo,586,14005,1378276
+Repetidos,586,23180,1378276
+Casi Idéntico,586,9,196
+Transposicion,586,14513,1378276
+Aleatorio,587,13473,1382976
+Palindromo,587,13404,1382976
+Repetidos,587,20692,1382976
+Casi Idéntico,587,8,196
+Transposicion,587,13308,1382976
+Aleatorio,588,13579,1387684
+Palindromo,588,13845,1387684
+Repetidos,588,20462,1387684
+Casi Idéntico,588,6,196
+Transposicion,588,13129,1387684
+Aleatorio,589,13667,1392400
+Palindromo,589,13561,1392400
+Repetidos,589,20179,1392400
+Casi Idéntico,589,6,196
+Transposicion,589,13178,1392400
+Aleatorio,590,15243,1397124
+Palindromo,590,13883,1397124
+Repetidos,590,20420,1397124
+Casi Idéntico,590,7,196
+Transposicion,590,12968,1397124
+Aleatorio,591,14031,1401856
+Palindromo,591,13313,1401856
+Repetidos,591,20483,1401856
+Casi Idéntico,591,7,196
+Transposicion,591,12856,1401856
+Aleatorio,592,13607,1406596
+Palindromo,592,13676,1406596
+Repetidos,592,20495,1406596
+Casi Idéntico,592,5,196
+Transposicion,592,13307,1406596
+Aleatorio,593,13900,1411344
+Palindromo,593,15670,1411344
+Repetidos,593,21094,1411344
+Casi Idéntico,593,10,196
+Transposicion,593,13334,1411344
+Aleatorio,594,15324,1416100
+Palindromo,594,14092,1416100
+Repetidos,594,21078,1416100
+Casi Idéntico,594,5,196
+Transposicion,594,13684,1416100
+Aleatorio,595,14242,1420864
+Palindromo,595,13813,1420864
+Repetidos,595,21686,1420864
+Casi Idéntico,595,7,196
+Transposicion,595,13366,1420864
+Aleatorio,596,13801,1425636
+Palindromo,596,14089,1425636
+Repetidos,596,21978,1425636
+Casi Idéntico,596,6,196
+Transposicion,596,15070,1425636
+Aleatorio,597,16321,1430416
+Palindromo,597,14434,1430416
+Repetidos,597,21543,1430416
+Casi Idéntico,597,8,196
+Transposicion,597,13845,1430416
+Aleatorio,598,14098,1435204
+Palindromo,598,13649,1435204
+Repetidos,598,21014,1435204
+Casi Idéntico,598,6,196
+Transposicion,598,12905,1435204
+Aleatorio,599,14012,1440000
+Palindromo,599,14470,1440000
+Repetidos,599,21289,1440000
+Casi Idéntico,599,5,196
+Transposicion,599,14131,1440000
+Aleatorio,600,15787,1444804
+Palindromo,600,14829,1444804
+Repetidos,600,22386,1444804
+Casi Idéntico,600,9,196
+Transposicion,600,13620,1444804
+Aleatorio,601,14984,1449616
+Palindromo,601,14676,1449616
+Repetidos,601,21597,1449616
+Casi Idéntico,601,10,196
+Transposicion,601,13697,1449616
+Aleatorio,602,14152,1454436
+Palindromo,602,14191,1454436
+Repetidos,602,21434,1454436
+Casi Idéntico,602,15,196
+Transposicion,602,13667,1454436
+Aleatorio,603,14239,1459264
+Palindromo,603,14182,1459264
+Repetidos,603,19027,1459264
+Casi Idéntico,603,9,196
+Transposicion,603,13874,1459264
+Aleatorio,604,14086,1464100
+Palindromo,604,14878,1464100
+Repetidos,604,21115,1464100
+Casi Idéntico,604,7,196
+Transposicion,604,12092,1464100
+Aleatorio,605,13379,1468944
+Palindromo,605,13974,1468944
+Repetidos,605,20847,1468944
+Casi Idéntico,605,6,196
+Transposicion,605,13248,1468944
+Aleatorio,606,13797,1473796
+Palindromo,606,14395,1473796
+Repetidos,606,21353,1473796
+Casi Idéntico,606,5,196
+Transposicion,606,13607,1473796
+Aleatorio,607,13355,1478656
+Palindromo,607,13649,1478656
+Repetidos,607,20977,1478656
+Casi Idéntico,607,7,196
+Transposicion,607,13377,1478656
+Aleatorio,608,13765,1483524
+Palindromo,608,13239,1483524
+Repetidos,608,19679,1483524
+Casi Idéntico,608,5,196
+Transposicion,608,13439,1483524
+Aleatorio,609,14105,1488400
+Palindromo,609,14145,1488400
+Repetidos,609,21527,1488400
+Casi Idéntico,609,8,196
+Transposicion,609,13386,1488400
+Aleatorio,610,14135,1493284
+Palindromo,610,16890,1493284
+Repetidos,610,21502,1493284
+Casi Idéntico,610,7,196
+Transposicion,610,13480,1493284
+Aleatorio,611,13950,1498176
+Palindromo,611,14313,1498176
+Repetidos,611,19629,1498176
+Casi Idéntico,611,6,196
+Transposicion,611,14121,1498176
+Aleatorio,612,14367,1503076
+Palindromo,612,13349,1503076
+Repetidos,612,21802,1503076
+Casi Idéntico,612,5,196
+Transposicion,612,14546,1503076
+Aleatorio,613,14413,1507984
+Palindromo,613,14968,1507984
+Repetidos,613,20179,1507984
+Casi Idéntico,613,7,196
+Transposicion,613,13640,1507984
+Aleatorio,614,14511,1512900
+Palindromo,614,13828,1512900
+Repetidos,614,21153,1512900
+Casi Idéntico,614,5,196
+Transposicion,614,13538,1512900
+Aleatorio,615,13421,1517824
+Palindromo,615,14805,1517824
+Repetidos,615,23666,1517824
+Casi Idéntico,615,8,196
+Transposicion,615,13720,1517824
+Aleatorio,616,16864,1522756
+Palindromo,616,14119,1522756
+Repetidos,616,20572,1522756
+Casi Idéntico,616,5,196
+Transposicion,616,13409,1522756
+Aleatorio,617,13923,1527696
+Palindromo,617,14522,1527696
+Repetidos,617,25340,1527696
+Casi Idéntico,617,7,196
+Transposicion,617,13943,1527696
+Aleatorio,618,14512,1532644
+Palindromo,618,15839,1532644
+Repetidos,618,21074,1532644
+Casi Idéntico,618,5,196
+Transposicion,618,13336,1532644
+Aleatorio,619,14126,1537600
+Palindromo,619,14916,1537600
+Repetidos,619,21065,1537600
+Casi Idéntico,619,7,196
+Transposicion,619,13686,1537600
+Aleatorio,620,15423,1542564
+Palindromo,620,13668,1542564
+Repetidos,620,21792,1542564
+Casi Idéntico,620,5,196
+Transposicion,620,13917,1542564
+Aleatorio,621,15049,1547536
+Palindromo,621,14823,1547536
+Repetidos,621,20471,1547536
+Casi Idéntico,621,8,196
+Transposicion,621,12822,1547536
+Aleatorio,622,14555,1552516
+Palindromo,622,13779,1552516
+Repetidos,622,21757,1552516
+Casi Idéntico,622,6,196
+Transposicion,622,13634,1552516
+Aleatorio,623,13925,1557504
+Palindromo,623,15575,1557504
+Repetidos,623,22308,1557504
+Casi Idéntico,623,6,196
+Transposicion,623,13522,1557504
+Aleatorio,624,13827,1562500
+Palindromo,624,13213,1562500
+Repetidos,624,20258,1562500
+Casi Idéntico,624,5,196
+Transposicion,624,14534,1562500
+Aleatorio,625,15003,1567504
+Palindromo,625,14580,1567504
+Repetidos,625,22398,1567504
+Casi Idéntico,625,7,196
+Transposicion,625,14198,1567504
+Aleatorio,626,14492,1572516
+Palindromo,626,14766,1572516
+Repetidos,626,20618,1572516
+Casi Idéntico,626,5,196
+Transposicion,626,14402,1572516
+Aleatorio,627,15692,1577536
+Palindromo,627,14870,1577536
+Repetidos,627,20742,1577536
+Casi Idéntico,627,9,196
+Transposicion,627,13963,1577536
+Aleatorio,628,14933,1582564
+Palindromo,628,14338,1582564
+Repetidos,628,21723,1582564
+Casi Idéntico,628,5,196
+Transposicion,628,15864,1582564
+Aleatorio,629,14344,1587600
+Palindromo,629,13831,1587600
+Repetidos,629,20366,1587600
+Casi Idéntico,629,7,196
+Transposicion,629,14264,1587600
+Aleatorio,630,15197,1592644
+Palindromo,630,15354,1592644
+Repetidos,630,20833,1592644
+Casi Idéntico,630,5,196
+Transposicion,630,14858,1592644
+Aleatorio,631,15452,1597696
+Palindromo,631,14928,1597696
+Repetidos,631,22740,1597696
+Casi Idéntico,631,7,196
+Transposicion,631,14927,1597696
+Aleatorio,632,15101,1602756
+Palindromo,632,14295,1602756
+Repetidos,632,21803,1602756
+Casi Idéntico,632,5,196
+Transposicion,632,14170,1602756
+Aleatorio,633,14055,1607824
+Palindromo,633,15418,1607824
+Repetidos,633,21466,1607824
+Casi Idéntico,633,8,196
+Transposicion,633,15882,1607824
+Aleatorio,634,16418,1612900
+Palindromo,634,15006,1612900
+Repetidos,634,22476,1612900
+Casi Idéntico,634,5,196
+Transposicion,634,14780,1612900
+Aleatorio,635,16168,1617984
+Palindromo,635,15545,1617984
+Repetidos,635,22458,1617984
+Casi Idéntico,635,7,196
+Transposicion,635,14867,1617984
+Aleatorio,636,14289,1623076
+Palindromo,636,16993,1623076
+Repetidos,636,24866,1623076
+Casi Idéntico,636,6,196
+Transposicion,636,14441,1623076
+Aleatorio,637,14527,1628176
+Palindromo,637,15027,1628176
+Repetidos,637,21886,1628176
+Casi Idéntico,637,8,196
+Transposicion,637,14692,1628176
+Aleatorio,638,14893,1633284
+Palindromo,638,14111,1633284
+Repetidos,638,22526,1633284
+Casi Idéntico,638,4,196
+Transposicion,638,14987,1633284
+Aleatorio,639,15039,1638400
+Palindromo,639,14738,1638400
+Repetidos,639,24297,1638400
+Casi Idéntico,639,9,196
+Transposicion,639,15029,1638400
+Aleatorio,640,16082,1643524
+Palindromo,640,14611,1643524
+Repetidos,640,22657,1643524
+Casi Idéntico,640,6,196
+Transposicion,640,14827,1643524
+Aleatorio,641,14612,1648656
+Palindromo,641,16098,1648656
+Repetidos,641,21467,1648656
+Casi Idéntico,641,14,196
+Transposicion,641,14784,1648656
+Aleatorio,642,15163,1653796
+Palindromo,642,16028,1653796
+Repetidos,642,22106,1653796
+Casi Idéntico,642,6,196
+Transposicion,642,15000,1653796
+Aleatorio,643,15841,1658944
+Palindromo,643,14888,1658944
+Repetidos,643,21814,1658944
+Casi Idéntico,643,8,196
+Transposicion,643,14753,1658944
+Aleatorio,644,15864,1664100
+Palindromo,644,16197,1664100
+Repetidos,644,21365,1664100
+Casi Idéntico,644,5,196
+Transposicion,644,14225,1664100
+Aleatorio,645,16154,1669264
+Palindromo,645,15925,1669264
+Repetidos,645,23953,1669264
+Casi Idéntico,645,8,196
+Transposicion,645,14460,1669264
+Aleatorio,646,14742,1674436
+Palindromo,646,16835,1674436
+Repetidos,646,24896,1674436
+Casi Idéntico,646,10,196
+Transposicion,646,13318,1674436
+Aleatorio,647,14717,1679616
+Palindromo,647,15379,1679616
+Repetidos,647,21498,1679616
+Casi Idéntico,647,10,196
+Transposicion,647,17727,1679616
+Aleatorio,648,16148,1684804
+Palindromo,648,15993,1684804
+Repetidos,648,22036,1684804
+Casi Idéntico,648,8,196
+Transposicion,648,14422,1684804
+Aleatorio,649,14952,1690000
+Palindromo,649,15078,1690000
+Repetidos,649,22235,1690000
+Casi Idéntico,649,7,196
+Transposicion,649,14489,1690000
+Aleatorio,650,16024,1695204
+Palindromo,650,15900,1695204
+Repetidos,650,23367,1695204
+Casi Idéntico,650,5,196
+Transposicion,650,16560,1695204
+Aleatorio,651,16154,1700416
+Palindromo,651,16745,1700416
+Repetidos,651,23559,1700416
+Casi Idéntico,651,7,196
+Transposicion,651,14532,1700416
+Aleatorio,652,15584,1705636
+Palindromo,652,15384,1705636
+Repetidos,652,23682,1705636
+Casi Idéntico,652,5,196
+Transposicion,652,14375,1705636
+Aleatorio,653,14794,1710864
+Palindromo,653,14298,1710864
+Repetidos,653,24115,1710864
+Casi Idéntico,653,13,196
+Transposicion,653,15903,1710864
+Aleatorio,654,15995,1716100
+Palindromo,654,15579,1716100
+Repetidos,654,25029,1716100
+Casi Idéntico,654,5,196
+Transposicion,654,16531,1716100
+Aleatorio,655,15247,1721344
+Palindromo,655,14845,1721344
+Repetidos,655,22418,1721344
+Casi Idéntico,655,6,196
+Transposicion,655,15539,1721344
+Aleatorio,656,15246,1726596
+Palindromo,656,16336,1726596
+Repetidos,656,24046,1726596
+Casi Idéntico,656,5,196
+Transposicion,656,14703,1726596
+Aleatorio,657,16009,1731856
+Palindromo,657,16374,1731856
+Repetidos,657,22810,1731856
+Casi Idéntico,657,9,196
+Transposicion,657,15174,1731856
+Aleatorio,658,15849,1737124
+Palindromo,658,15628,1737124
+Repetidos,658,22336,1737124
+Casi Idéntico,658,4,196
+Transposicion,658,15750,1737124
+Aleatorio,659,16739,1742400
+Palindromo,659,16854,1742400
+Repetidos,659,22653,1742400
+Casi Idéntico,659,7,196
+Transposicion,659,16046,1742400
+Aleatorio,660,15778,1747684
+Palindromo,660,16330,1747684
+Repetidos,660,24085,1747684
+Casi Idéntico,660,5,196
+Transposicion,660,15116,1747684
+Aleatorio,661,16141,1752976
+Palindromo,661,15891,1752976
+Repetidos,661,23155,1752976
+Casi Idéntico,661,7,196
+Transposicion,661,15870,1752976
+Aleatorio,662,17444,1758276
+Palindromo,662,16593,1758276
+Repetidos,662,24444,1758276
+Casi Idéntico,662,5,196
+Transposicion,662,16052,1758276
+Aleatorio,663,16259,1763584
+Palindromo,663,16071,1763584
+Repetidos,663,24789,1763584
+Casi Idéntico,663,7,196
+Transposicion,663,15809,1763584
+Aleatorio,664,15869,1768900
+Palindromo,664,14929,1768900
+Repetidos,664,25521,1768900
+Casi Idéntico,664,4,196
+Transposicion,664,16648,1768900
+Aleatorio,665,16098,1774224
+Palindromo,665,15998,1774224
+Repetidos,665,23386,1774224
+Casi Idéntico,665,10,196
+Transposicion,665,15906,1774224
+Aleatorio,666,16075,1779556
+Palindromo,666,17180,1779556
+Repetidos,666,23287,1779556
+Casi Idéntico,666,5,196
+Transposicion,666,18327,1779556
+Aleatorio,667,17161,1784896
+Palindromo,667,17609,1784896
+Repetidos,667,23835,1784896
+Casi Idéntico,667,9,196
+Transposicion,667,17180,1784896
+Aleatorio,668,17583,1790244
+Palindromo,668,16618,1790244
+Repetidos,668,23298,1790244
+Casi Idéntico,668,7,196
+Transposicion,668,17190,1790244
+Aleatorio,669,16779,1795600
+Palindromo,669,16073,1795600
+Repetidos,669,23835,1795600
+Casi Idéntico,669,7,196
+Transposicion,669,16153,1795600
+Aleatorio,670,15845,1800964
+Palindromo,670,16479,1800964
+Repetidos,670,25623,1800964
+Casi Idéntico,670,5,196
+Transposicion,670,15537,1800964
+Aleatorio,671,16126,1806336
+Palindromo,671,15793,1806336
+Repetidos,671,24692,1806336
+Casi Idéntico,671,7,196
+Transposicion,671,15714,1806336
+Aleatorio,672,16308,1811716
+Palindromo,672,16271,1811716
+Repetidos,672,23918,1811716
+Casi Idéntico,672,5,196
+Transposicion,672,16113,1811716
+Aleatorio,673,16334,1817104
+Palindromo,673,17155,1817104
+Repetidos,673,24162,1817104
+Casi Idéntico,673,8,196
+Transposicion,673,15409,1817104
+Aleatorio,674,17045,1822500
+Palindromo,674,16866,1822500
+Repetidos,674,24108,1822500
+Casi Idéntico,674,5,196
+Transposicion,674,16176,1822500
+Aleatorio,675,15756,1827904
+Palindromo,675,16746,1827904
+Repetidos,675,23992,1827904
+Casi Idéntico,675,6,196
+Transposicion,675,16429,1827904
+Aleatorio,676,20508,1833316
+Palindromo,676,17221,1833316
+Repetidos,676,24203,1833316
+Casi Idéntico,676,5,196
+Transposicion,676,16766,1833316
+Aleatorio,677,16850,1838736
+Palindromo,677,17207,1838736
+Repetidos,677,25314,1838736
+Casi Idéntico,677,9,196
+Transposicion,677,16671,1838736
+Aleatorio,678,18378,1844164
+Palindromo,678,17704,1844164
+Repetidos,678,25493,1844164
+Casi Idéntico,678,11,196
+Transposicion,678,17760,1844164
+Aleatorio,679,16449,1849600
+Palindromo,679,16897,1849600
+Repetidos,679,24206,1849600
+Casi Idéntico,679,7,196
+Transposicion,679,16176,1849600
+Aleatorio,680,16950,1855044
+Palindromo,680,16971,1855044
+Repetidos,680,26062,1855044
+Casi Idéntico,680,4,196
+Transposicion,680,17233,1855044
+Aleatorio,681,17716,1860496
+Palindromo,681,17794,1860496
+Repetidos,681,24153,1860496
+Casi Idéntico,681,7,196
+Transposicion,681,16981,1860496
+Aleatorio,682,17551,1865956
+Palindromo,682,17600,1865956
+Repetidos,682,26728,1865956
+Casi Idéntico,682,4,196
+Transposicion,682,17459,1865956
+Aleatorio,683,17583,1871424
+Palindromo,683,16004,1871424
+Repetidos,683,26586,1871424
+Casi Idéntico,683,5,196
+Transposicion,683,17239,1871424
+Aleatorio,684,17708,1876900
+Palindromo,684,17194,1876900
+Repetidos,684,25422,1876900
+Casi Idéntico,684,5,196
+Transposicion,684,15917,1876900
+Aleatorio,685,16981,1882384
+Palindromo,685,18010,1882384
+Repetidos,685,25692,1882384
+Casi Idéntico,685,6,196
+Transposicion,685,16475,1882384
+Aleatorio,686,17849,1887876
+Palindromo,686,17936,1887876
+Repetidos,686,27272,1887876
+Casi Idéntico,686,7,196
+Transposicion,686,17519,1887876
+Aleatorio,687,18691,1893376
+Palindromo,687,17095,1893376
+Repetidos,687,26381,1893376
+Casi Idéntico,687,10,196
+Transposicion,687,17812,1893376
+Aleatorio,688,17741,1898884
+Palindromo,688,17696,1898884
+Repetidos,688,26635,1898884
+Casi Idéntico,688,5,196
+Transposicion,688,18211,1898884
+Aleatorio,689,18645,1904400
+Palindromo,689,18747,1904400
+Repetidos,689,26367,1904400
+Casi Idéntico,689,7,196
+Transposicion,689,16455,1904400
+Aleatorio,690,18461,1909924
+Palindromo,690,19933,1909924
+Repetidos,690,25853,1909924
+Casi Idéntico,690,5,196
+Transposicion,690,17418,1909924
+Aleatorio,691,17915,1915456
+Palindromo,691,17395,1915456
+Repetidos,691,26430,1915456
+Casi Idéntico,691,9,196
+Transposicion,691,16888,1915456
+Aleatorio,692,17136,1920996
+Palindromo,692,16832,1920996
+Repetidos,692,25983,1920996
+Casi Idéntico,692,5,196
+Transposicion,692,16480,1920996
+Aleatorio,693,17433,1926544
+Palindromo,693,17757,1926544
+Repetidos,693,25490,1926544
+Casi Idéntico,693,5,196
+Transposicion,693,16993,1926544
+Aleatorio,694,16924,1932100
+Palindromo,694,18030,1932100
+Repetidos,694,27073,1932100
+Casi Idéntico,694,5,196
+Transposicion,694,16635,1932100
+Aleatorio,695,18779,1937664
+Palindromo,695,17882,1937664
+Repetidos,695,27517,1937664
+Casi Idéntico,695,7,196
+Transposicion,695,17802,1937664
+Aleatorio,696,18396,1943236
+Palindromo,696,18221,1943236
+Repetidos,696,27645,1943236
+Casi Idéntico,696,5,196
+Transposicion,696,17602,1943236
+Aleatorio,697,18146,1948816
+Palindromo,697,17872,1948816
+Repetidos,697,27838,1948816
+Casi Idéntico,697,9,196
+Transposicion,697,17803,1948816
+Aleatorio,698,17539,1954404
+Palindromo,698,18999,1954404
+Repetidos,698,25495,1954404
+Casi Idéntico,698,5,196
+Transposicion,698,16318,1954404
+Aleatorio,699,17481,1960000
+Palindromo,699,18825,1960000
+Repetidos,699,26148,1960000
+Casi Idéntico,699,9,196
+Transposicion,699,19318,1960000
+Aleatorio,700,20007,1965604
+Palindromo,700,17595,1965604
+Repetidos,700,27190,1965604
+Casi Idéntico,700,5,196
+Transposicion,700,16789,1965604
+Aleatorio,701,17268,1971216
+Palindromo,701,17899,1971216
+Repetidos,701,25626,1971216
+Casi Idéntico,701,7,196
+Transposicion,701,17587,1971216
+Aleatorio,702,18413,1976836
+Palindromo,702,18016,1976836
+Repetidos,702,27717,1976836
+Casi Idéntico,702,36,196
+Transposicion,702,18236,1976836
+Aleatorio,703,18706,1982464
+Palindromo,703,18479,1982464
+Repetidos,703,28156,1982464
+Casi Idéntico,703,8,196
+Transposicion,703,17068,1982464
+Aleatorio,704,17579,1988100
+Palindromo,704,18223,1988100
+Repetidos,704,26266,1988100
+Casi Idéntico,704,6,196
+Transposicion,704,16807,1988100
+Aleatorio,705,18319,1993744
+Palindromo,705,17869,1993744
+Repetidos,705,26926,1993744
+Casi Idéntico,705,7,196
+Transposicion,705,16812,1993744
+Aleatorio,706,19299,1999396
+Palindromo,706,18094,1999396
+Repetidos,706,27854,1999396
+Casi Idéntico,706,5,196
+Transposicion,706,18009,1999396
+Aleatorio,707,17618,2005056
+Palindromo,707,18549,2005056
+Repetidos,707,27429,2005056
+Casi Idéntico,707,6,196
+Transposicion,707,17238,2005056
+Aleatorio,708,17031,2010724
+Palindromo,708,17106,2010724
+Repetidos,708,27354,2010724
+Casi Idéntico,708,5,196
+Transposicion,708,18306,2010724
+Aleatorio,709,19102,2016400
+Palindromo,709,19273,2016400
+Repetidos,709,26959,2016400
+Casi Idéntico,709,7,196
+Transposicion,709,18052,2016400
+Aleatorio,710,19361,2022084
+Palindromo,710,18809,2022084
+Repetidos,710,28251,2022084
+Casi Idéntico,710,5,196
+Transposicion,710,17486,2022084
+Aleatorio,711,17702,2027776
+Palindromo,711,19115,2027776
+Repetidos,711,28001,2027776
+Casi Idéntico,711,6,196
+Transposicion,711,18211,2027776
+Aleatorio,712,21522,2033476
+Palindromo,712,19583,2033476
+Repetidos,712,27796,2033476
+Casi Idéntico,712,5,196
+Transposicion,712,18523,2033476
+Aleatorio,713,18628,2039184
+Palindromo,713,17979,2039184
+Repetidos,713,26752,2039184
+Casi Idéntico,713,6,196
+Transposicion,713,21907,2039184
+Aleatorio,714,27200,2044900
+Palindromo,714,34906,2044900
+Repetidos,714,26626,2044900
+Casi Idéntico,714,6,196
+Transposicion,714,17694,2044900
+Aleatorio,715,19839,2050624
+Palindromo,715,21930,2050624
+Repetidos,715,37377,2050624
+Casi Idéntico,715,9,196
+Transposicion,715,18358,2050624
+Aleatorio,716,21405,2056356
+Palindromo,716,18597,2056356
+Repetidos,716,29353,2056356
+Casi Idéntico,716,24,196
+Transposicion,716,17380,2056356
+Aleatorio,717,18599,2062096
+Palindromo,717,18971,2062096
+Repetidos,717,27837,2062096
+Casi Idéntico,717,7,196
+Transposicion,717,18644,2062096
+Aleatorio,718,19415,2067844
+Palindromo,718,19309,2067844
+Repetidos,718,29138,2067844
+Casi Idéntico,718,5,196
+Transposicion,718,18364,2067844
+Aleatorio,719,19004,2073600
+Palindromo,719,18951,2073600
+Repetidos,719,28041,2073600
+Casi Idéntico,719,7,196
+Transposicion,719,19201,2073600
+Aleatorio,720,20180,2079364
+Palindromo,720,18677,2079364
+Repetidos,720,28427,2079364
+Casi Idéntico,720,6,196
+Transposicion,720,18619,2079364
+Aleatorio,721,19198,2085136
+Palindromo,721,20231,2085136
+Repetidos,721,27723,2085136
+Casi Idéntico,721,7,196
+Transposicion,721,19662,2085136
+Aleatorio,722,18581,2090916
+Palindromo,722,18975,2090916
+Repetidos,722,28046,2090916
+Casi Idéntico,722,5,196
+Transposicion,722,19928,2090916
+Aleatorio,723,19852,2096704
+Palindromo,723,20769,2096704
+Repetidos,723,28307,2096704
+Casi Idéntico,723,7,196
+Transposicion,723,19101,2096704
+Aleatorio,724,18332,2102500
+Palindromo,724,18097,2102500
+Repetidos,724,27550,2102500
+Casi Idéntico,724,5,196
+Transposicion,724,19555,2102500
+Aleatorio,725,20819,2108304
+Palindromo,725,21327,2108304
+Repetidos,725,28147,2108304
+Casi Idéntico,725,6,196
+Transposicion,725,18489,2108304
+Aleatorio,726,19335,2114116
+Palindromo,726,18566,2114116
+Repetidos,726,28975,2114116
+Casi Idéntico,726,5,196
+Transposicion,726,18509,2114116
+Aleatorio,727,19354,2119936
+Palindromo,727,20195,2119936
+Repetidos,727,29116,2119936
+Casi Idéntico,727,8,196
+Transposicion,727,19217,2119936
+Aleatorio,728,22045,2125764
+Palindromo,728,20036,2125764
+Repetidos,728,29889,2125764
+Casi Idéntico,728,6,196
+Transposicion,728,18919,2125764
+Aleatorio,729,18740,2131600
+Palindromo,729,19469,2131600
+Repetidos,729,32561,2131600
+Casi Idéntico,729,8,196
+Transposicion,729,18203,2131600
+Aleatorio,730,19504,2137444
+Palindromo,730,20243,2137444
+Repetidos,730,30473,2137444
+Casi Idéntico,730,6,196
+Transposicion,730,18558,2137444
+Aleatorio,731,19008,2143296
+Palindromo,731,18756,2143296
+Repetidos,731,28614,2143296
+Casi Idéntico,731,6,196
+Transposicion,731,18902,2143296
+Aleatorio,732,20771,2149156
+Palindromo,732,20836,2149156
+Repetidos,732,30673,2149156
+Casi Idéntico,732,5,196
+Transposicion,732,21282,2149156
+Aleatorio,733,20431,2155024
+Palindromo,733,19264,2155024
+Repetidos,733,28368,2155024
+Casi Idéntico,733,7,196
+Transposicion,733,19847,2155024
+Aleatorio,734,20846,2160900
+Palindromo,734,19831,2160900
+Repetidos,734,30351,2160900
+Casi Idéntico,734,5,196
+Transposicion,734,20497,2160900
+Aleatorio,735,19718,2166784
+Palindromo,735,21267,2166784
+Repetidos,735,30719,2166784
+Casi Idéntico,735,7,196
+Transposicion,735,18510,2166784
+Aleatorio,736,18980,2172676
+Palindromo,736,20599,2172676
+Repetidos,736,30066,2172676
+Casi Idéntico,736,5,196
+Transposicion,736,20533,2172676
+Aleatorio,737,19931,2178576
+Palindromo,737,19764,2178576
+Repetidos,737,30855,2178576
+Casi Idéntico,737,7,196
+Transposicion,737,19908,2178576
+Aleatorio,738,21320,2184484
+Palindromo,738,22013,2184484
+Repetidos,738,33513,2184484
+Casi Idéntico,738,5,196
+Transposicion,738,20889,2184484
+Aleatorio,739,21304,2190400
+Palindromo,739,20740,2190400
+Repetidos,739,31399,2190400
+Casi Idéntico,739,8,196
+Transposicion,739,22111,2190400
+Aleatorio,740,21109,2196324
+Palindromo,740,21620,2196324
+Repetidos,740,30335,2196324
+Casi Idéntico,740,5,196
+Transposicion,740,20244,2196324
+Aleatorio,741,21541,2202256
+Palindromo,741,21465,2202256
+Repetidos,741,31955,2202256
+Casi Idéntico,741,7,196
+Transposicion,741,21147,2202256
+Aleatorio,742,20341,2208196
+Palindromo,742,20912,2208196
+Repetidos,742,30126,2208196
+Casi Idéntico,742,5,196
+Transposicion,742,20580,2208196
+Aleatorio,743,20853,2214144
+Palindromo,743,21232,2214144
+Repetidos,743,30924,2214144
+Casi Idéntico,743,7,196
+Transposicion,743,20975,2214144
+Aleatorio,744,21572,2220100
+Palindromo,744,20851,2220100
+Repetidos,744,32135,2220100
+Casi Idéntico,744,4,196
+Transposicion,744,20499,2220100
+Aleatorio,745,21065,2226064
+Palindromo,745,22094,2226064
+Repetidos,745,30646,2226064
+Casi Idéntico,745,6,196
+Transposicion,745,20628,2226064
+Aleatorio,746,21500,2232036
+Palindromo,746,20645,2232036
+Repetidos,746,30621,2232036
+Casi Idéntico,746,5,196
+Transposicion,746,20867,2232036
+Aleatorio,747,20549,2238016
+Palindromo,747,21396,2238016
+Repetidos,747,31349,2238016
+Casi Idéntico,747,8,196
+Transposicion,747,19999,2238016
+Aleatorio,748,21468,2244004
+Palindromo,748,19894,2244004
+Repetidos,748,30105,2244004
+Casi Idéntico,748,5,196
+Transposicion,748,19717,2244004
+Aleatorio,749,19835,2250000
+Palindromo,749,20126,2250000
+Repetidos,749,31439,2250000
+Casi Idéntico,749,6,196
+Transposicion,749,20852,2250000
+Aleatorio,750,22600,2256004
+Palindromo,750,20466,2256004
+Repetidos,750,31069,2256004
+Casi Idéntico,750,8,196
+Transposicion,750,19674,2256004
+Aleatorio,751,19447,2262016
+Palindromo,751,19924,2262016
+Repetidos,751,31462,2262016
+Casi Idéntico,751,6,196
+Transposicion,751,20899,2262016
+Aleatorio,752,20229,2268036
+Palindromo,752,20361,2268036
+Repetidos,752,31725,2268036
+Casi Idéntico,752,5,196
+Transposicion,752,19995,2268036
+Aleatorio,753,20459,2274064
+Palindromo,753,19759,2274064
+Repetidos,753,30186,2274064
+Casi Idéntico,753,6,196
+Transposicion,753,21430,2274064
+Aleatorio,754,22640,2280100
+Palindromo,754,21382,2280100
+Repetidos,754,33081,2280100
+Casi Idéntico,754,5,196
+Transposicion,754,20925,2280100
+Aleatorio,755,21699,2286144
+Palindromo,755,20747,2286144
+Repetidos,755,30123,2286144
+Casi Idéntico,755,6,196
+Transposicion,755,19138,2286144
+Aleatorio,756,21376,2292196
+Palindromo,756,23025,2292196
+Repetidos,756,31403,2292196
+Casi Idéntico,756,5,196
+Transposicion,756,20685,2292196
+Aleatorio,757,21939,2298256
+Palindromo,757,22039,2298256
+Repetidos,757,32169,2298256
+Casi Idéntico,757,6,196
+Transposicion,757,20331,2298256
+Aleatorio,758,21990,2304324
+Palindromo,758,22830,2304324
+Repetidos,758,32123,2304324
+Casi Idéntico,758,7,196
+Transposicion,758,21051,2304324
+Aleatorio,759,21294,2310400
+Palindromo,759,21317,2310400
+Repetidos,759,31055,2310400
+Casi Idéntico,759,7,196
+Transposicion,759,20168,2310400
+Aleatorio,760,21608,2316484
+Palindromo,760,21086,2316484
+Repetidos,760,33738,2316484
+Casi Idéntico,760,5,196
+Transposicion,760,21601,2316484
+Aleatorio,761,21799,2322576
+Palindromo,761,22333,2322576
+Repetidos,761,33387,2322576
+Casi Idéntico,761,9,196
+Transposicion,761,20298,2322576
+Aleatorio,762,21656,2328676
+Palindromo,762,20350,2328676
+Repetidos,762,32522,2328676
+Casi Idéntico,762,5,196
+Transposicion,762,19796,2328676
+Aleatorio,763,21243,2334784
+Palindromo,763,22008,2334784
+Repetidos,763,31453,2334784
+Casi Idéntico,763,9,196
+Transposicion,763,20847,2334784
+Aleatorio,764,20341,2340900
+Palindromo,764,20972,2340900
+Repetidos,764,32198,2340900
+Casi Idéntico,764,5,196
+Transposicion,764,20376,2340900
+Aleatorio,765,21425,2347024
+Palindromo,765,22078,2347024
+Repetidos,765,32290,2347024
+Casi Idéntico,765,8,196
+Transposicion,765,21500,2347024
+Aleatorio,766,20783,2353156
+Palindromo,766,21892,2353156
+Repetidos,766,32831,2353156
+Casi Idéntico,766,6,196
+Transposicion,766,22410,2353156
+Aleatorio,767,23886,2359296
+Palindromo,767,22216,2359296
+Repetidos,767,34421,2359296
+Casi Idéntico,767,8,196
+Transposicion,767,20705,2359296
+Aleatorio,768,21834,2365444
+Palindromo,768,22517,2365444
+Repetidos,768,32235,2365444
+Casi Idéntico,768,5,196
+Transposicion,768,21970,2365444
+Aleatorio,769,22883,2371600
+Palindromo,769,23263,2371600
+Repetidos,769,32439,2371600
+Casi Idéntico,769,7,196
+Transposicion,769,20464,2371600
+Aleatorio,770,21800,2377764
+Palindromo,770,20690,2377764
+Repetidos,770,33418,2377764
+Casi Idéntico,770,6,196
+Transposicion,770,21356,2377764
+Aleatorio,771,22520,2383936
+Palindromo,771,21753,2383936
+Repetidos,771,32966,2383936
+Casi Idéntico,771,21,196
+Transposicion,771,21342,2383936
+Aleatorio,772,23464,2390116
+Palindromo,772,22309,2390116
+Repetidos,772,33111,2390116
+Casi Idéntico,772,5,196
+Transposicion,772,20992,2390116
+Aleatorio,773,22751,2396304
+Palindromo,773,22190,2396304
+Repetidos,773,32932,2396304
+Casi Idéntico,773,8,196
+Transposicion,773,22345,2396304
+Aleatorio,774,22094,2402500
+Palindromo,774,21605,2402500
+Repetidos,774,32943,2402500
+Casi Idéntico,774,5,196
+Transposicion,774,20887,2402500
+Aleatorio,775,20954,2408704
+Palindromo,775,23095,2408704
+Repetidos,775,34525,2408704
+Casi Idéntico,775,8,196
+Transposicion,775,21086,2408704
+Aleatorio,776,22096,2414916
+Palindromo,776,22309,2414916
+Repetidos,776,31359,2414916
+Casi Idéntico,776,6,196
+Transposicion,776,20623,2414916
+Aleatorio,777,22742,2421136
+Palindromo,777,23604,2421136
+Repetidos,777,34579,2421136
+Casi Idéntico,777,6,196
+Transposicion,777,21181,2421136
+Aleatorio,778,23190,2427364
+Palindromo,778,22966,2427364
+Repetidos,778,33153,2427364
+Casi Idéntico,778,6,196
+Transposicion,778,20629,2427364
+Aleatorio,779,21496,2433600
+Palindromo,779,22269,2433600
+Repetidos,779,34933,2433600
+Casi Idéntico,779,7,196
+Transposicion,779,23506,2433600
+Aleatorio,780,23238,2439844
+Palindromo,780,23631,2439844
+Repetidos,780,33144,2439844
+Casi Idéntico,780,6,196
+Transposicion,780,22232,2439844
+Aleatorio,781,22697,2446096
+Palindromo,781,22590,2446096
+Repetidos,781,35886,2446096
+Casi Idéntico,781,9,196
+Transposicion,781,21743,2446096
+Aleatorio,782,23889,2452356
+Palindromo,782,22775,2452356
+Repetidos,782,32782,2452356
+Casi Idéntico,782,5,196
+Transposicion,782,21720,2452356
+Aleatorio,783,23363,2458624
+Palindromo,783,22814,2458624
+Repetidos,783,33571,2458624
+Casi Idéntico,783,14,196
+Transposicion,783,22990,2458624
+Aleatorio,784,23758,2464900
+Palindromo,784,21648,2464900
+Repetidos,784,32259,2464900
+Casi Idéntico,784,5,196
+Transposicion,784,21144,2464900
+Aleatorio,785,22622,2471184
+Palindromo,785,22484,2471184
+Repetidos,785,34249,2471184
+Casi Idéntico,785,7,196
+Transposicion,785,21258,2471184
+Aleatorio,786,23126,2477476
+Palindromo,786,23768,2477476
+Repetidos,786,34004,2477476
+Casi Idéntico,786,5,196
+Transposicion,786,21277,2477476
+Aleatorio,787,21572,2483776
+Palindromo,787,23904,2483776
+Repetidos,787,34075,2483776
+Casi Idéntico,787,8,196
+Transposicion,787,23733,2483776
+Aleatorio,788,23077,2490084
+Palindromo,788,22521,2490084
+Repetidos,788,33672,2490084
+Casi Idéntico,788,5,196
+Transposicion,788,21732,2490084
+Aleatorio,789,22267,2496400
+Palindromo,789,23669,2496400
+Repetidos,789,33593,2496400
+Casi Idéntico,789,7,196
+Transposicion,789,22207,2496400
+Aleatorio,790,23149,2502724
+Palindromo,790,23628,2502724
+Repetidos,790,32486,2502724
+Casi Idéntico,790,5,196
+Transposicion,790,21671,2502724
+Aleatorio,791,21417,2509056
+Palindromo,791,22360,2509056
+Repetidos,791,34194,2509056
+Casi Idéntico,791,9,196
+Transposicion,791,22791,2509056
+Aleatorio,792,23487,2515396
+Palindromo,792,22397,2515396
+Repetidos,792,33398,2515396
+Casi Idéntico,792,5,196
+Transposicion,792,22902,2515396
+Aleatorio,793,23268,2521744
+Palindromo,793,23690,2521744
+Repetidos,793,35518,2521744
+Casi Idéntico,793,8,196
+Transposicion,793,22170,2521744
+Aleatorio,794,23212,2528100
+Palindromo,794,25385,2528100
+Repetidos,794,34056,2528100
+Casi Idéntico,794,5,196
+Transposicion,794,22008,2528100
+Aleatorio,795,22631,2534464
+Palindromo,795,23151,2534464
+Repetidos,795,35152,2534464
+Casi Idéntico,795,7,196
+Transposicion,795,23098,2534464
+Aleatorio,796,22076,2540836
+Palindromo,796,23235,2540836
+Repetidos,796,35660,2540836
+Casi Idéntico,796,4,196
+Transposicion,796,23554,2540836
+Aleatorio,797,24041,2547216
+Palindromo,797,23248,2547216
+Repetidos,797,34355,2547216
+Casi Idéntico,797,7,196
+Transposicion,797,23920,2547216
+Aleatorio,798,22720,2553604
+Palindromo,798,24715,2553604
+Repetidos,798,34802,2553604
+Casi Idéntico,798,5,196
+Transposicion,798,22284,2553604
+Aleatorio,799,24383,2560000
+Palindromo,799,23456,2560000
+Repetidos,799,35834,2560000
+Casi Idéntico,799,7,196
+Transposicion,799,22217,2560000
+Aleatorio,800,23889,2566404
+Palindromo,800,24923,2566404
+Repetidos,800,35928,2566404
+Casi Idéntico,800,5,196
+Transposicion,800,24234,2566404
+Aleatorio,801,23713,2572816
+Palindromo,801,24196,2572816
+Repetidos,801,34082,2572816
+Casi Idéntico,801,11,196
+Transposicion,801,23854,2572816
+Aleatorio,802,24127,2579236
+Palindromo,802,23302,2579236
+Repetidos,802,34172,2579236
+Casi Idéntico,802,6,196
+Transposicion,802,24180,2579236
+Aleatorio,803,23514,2585664
+Palindromo,803,23861,2585664
+Repetidos,803,35986,2585664
+Casi Idéntico,803,14,196
+Transposicion,803,22799,2585664
+Aleatorio,804,23039,2592100
+Palindromo,804,23561,2592100
+Repetidos,804,33846,2592100
+Casi Idéntico,804,5,196
+Transposicion,804,23023,2592100
+Aleatorio,805,24023,2598544
+Palindromo,805,24995,2598544
+Repetidos,805,36597,2598544
+Casi Idéntico,805,6,196
+Transposicion,805,22514,2598544
+Aleatorio,806,25857,2604996
+Palindromo,806,23142,2604996
+Repetidos,806,35906,2604996
+Casi Idéntico,806,6,196
+Transposicion,806,22641,2604996
+Aleatorio,807,24543,2611456
+Palindromo,807,24978,2611456
+Repetidos,807,36662,2611456
+Casi Idéntico,807,7,196
+Transposicion,807,21686,2611456
+Aleatorio,808,23141,2617924
+Palindromo,808,24508,2617924
+Repetidos,808,36733,2617924
+Casi Idéntico,808,7,196
+Transposicion,808,24521,2617924
+Aleatorio,809,24104,2624400
+Palindromo,809,24641,2624400
+Repetidos,809,36928,2624400
+Casi Idéntico,809,7,196
+Transposicion,809,23499,2624400
+Aleatorio,810,22867,2630884
+Palindromo,810,22626,2630884
+Repetidos,810,37494,2630884
+Casi Idéntico,810,7,196
+Transposicion,810,23250,2630884
+Aleatorio,811,24089,2637376
+Palindromo,811,24858,2637376
+Repetidos,811,38045,2637376
+Casi Idéntico,811,8,196
+Transposicion,811,23017,2637376
+Aleatorio,812,24202,2643876
+Palindromo,812,25211,2643876
+Repetidos,812,33785,2643876
+Casi Idéntico,812,5,196
+Transposicion,812,23273,2643876
+Aleatorio,813,24453,2650384
+Palindromo,813,23563,2650384
+Repetidos,813,35477,2650384
+Casi Idéntico,813,7,196
+Transposicion,813,23197,2650384
+Aleatorio,814,24607,2656900
+Palindromo,814,23394,2656900
+Repetidos,814,37150,2656900
+Casi Idéntico,814,15,196
+Transposicion,814,24521,2656900
+Aleatorio,815,26627,2663424
+Palindromo,815,25534,2663424
+Repetidos,815,36917,2663424
+Casi Idéntico,815,7,196
+Transposicion,815,24285,2663424
+Aleatorio,816,25691,2669956
+Palindromo,816,24665,2669956
+Repetidos,816,38098,2669956
+Casi Idéntico,816,6,196
+Transposicion,816,24684,2669956
+Aleatorio,817,26009,2676496
+Palindromo,817,26277,2676496
+Repetidos,817,38182,2676496
+Casi Idéntico,817,7,196
+Transposicion,817,24829,2676496
+Aleatorio,818,25321,2683044
+Palindromo,818,25740,2683044
+Repetidos,818,36484,2683044
+Casi Idéntico,818,7,196
+Transposicion,818,25651,2683044
+Aleatorio,819,23883,2689600
+Palindromo,819,24083,2689600
+Repetidos,819,36545,2689600
+Casi Idéntico,819,7,196
+Transposicion,819,23613,2689600
+Aleatorio,820,24725,2696164
+Palindromo,820,25917,2696164
+Repetidos,820,41293,2696164
+Casi Idéntico,820,5,196
+Transposicion,820,25156,2696164
+Aleatorio,821,25229,2702736
+Palindromo,821,24307,2702736
+Repetidos,821,35202,2702736
+Casi Idéntico,821,6,196
+Transposicion,821,24397,2702736
+Aleatorio,822,24388,2709316
+Palindromo,822,26310,2709316
+Repetidos,822,36334,2709316
+Casi Idéntico,822,7,196
+Transposicion,822,23847,2709316
+Aleatorio,823,25937,2715904
+Palindromo,823,26273,2715904
+Repetidos,823,38311,2715904
+Casi Idéntico,823,6,196
+Transposicion,823,25803,2715904
+Aleatorio,824,26155,2722500
+Palindromo,824,24090,2722500
+Repetidos,824,37472,2722500
+Casi Idéntico,824,5,196
+Transposicion,824,25165,2722500
+Aleatorio,825,23093,2729104
+Palindromo,825,24606,2729104
+Repetidos,825,39565,2729104
+Casi Idéntico,825,8,196
+Transposicion,825,24285,2729104
+Aleatorio,826,25141,2735716
+Palindromo,826,24705,2735716
+Repetidos,826,37268,2735716
+Casi Idéntico,826,6,196
+Transposicion,826,23574,2735716
+Aleatorio,827,25604,2742336
+Palindromo,827,24175,2742336
+Repetidos,827,36999,2742336
+Casi Idéntico,827,8,196
+Transposicion,827,25032,2742336
+Aleatorio,828,26478,2748964
+Palindromo,828,24964,2748964
+Repetidos,828,36969,2748964
+Casi Idéntico,828,6,196
+Transposicion,828,23845,2748964
+Aleatorio,829,24278,2755600
+Palindromo,829,24936,2755600
+Repetidos,829,37397,2755600
+Casi Idéntico,829,8,196
+Transposicion,829,24089,2755600
+Aleatorio,830,25651,2762244
+Palindromo,830,24325,2762244
+Repetidos,830,37713,2762244
+Casi Idéntico,830,5,196
+Transposicion,830,25896,2762244
+Aleatorio,831,27774,2768896
+Palindromo,831,26642,2768896
+Repetidos,831,38669,2768896
+Casi Idéntico,831,8,196
+Transposicion,831,25557,2768896
+Aleatorio,832,24773,2775556
+Palindromo,832,23215,2775556
+Repetidos,832,36078,2775556
+Casi Idéntico,832,6,196
+Transposicion,832,25712,2775556
+Aleatorio,833,26604,2782224
+Palindromo,833,24253,2782224
+Repetidos,833,36233,2782224
+Casi Idéntico,833,7,196
+Transposicion,833,25921,2782224
+Aleatorio,834,24362,2788900
+Palindromo,834,26070,2788900
+Repetidos,834,38095,2788900
+Casi Idéntico,834,5,196
+Transposicion,834,24422,2788900
+Aleatorio,835,25934,2795584
+Palindromo,835,26204,2795584
+Repetidos,835,39104,2795584
+Casi Idéntico,835,8,196
+Transposicion,835,24561,2795584
+Aleatorio,836,26203,2802276
+Palindromo,836,26534,2802276
+Repetidos,836,42545,2802276
+Casi Idéntico,836,5,196
+Transposicion,836,24057,2802276
+Aleatorio,837,25692,2808976
+Palindromo,837,26993,2808976
+Repetidos,837,39770,2808976
+Casi Idéntico,837,6,196
+Transposicion,837,25329,2808976
+Aleatorio,838,26765,2815684
+Palindromo,838,27762,2815684
+Repetidos,838,38310,2815684
+Casi Idéntico,838,7,196
+Transposicion,838,26573,2815684
+Aleatorio,839,29230,2822400
+Palindromo,839,27314,2822400
+Repetidos,839,36788,2822400
+Casi Idéntico,839,6,196
+Transposicion,839,23742,2822400
+Aleatorio,840,27374,2829124
+Palindromo,840,25603,2829124
+Repetidos,840,37447,2829124
+Casi Idéntico,840,6,196
+Transposicion,840,24575,2829124
+Aleatorio,841,25276,2835856
+Palindromo,841,25520,2835856
+Repetidos,841,37510,2835856
+Casi Idéntico,841,7,196
+Transposicion,841,25818,2835856
+Aleatorio,842,25074,2842596
+Palindromo,842,25360,2842596
+Repetidos,842,38294,2842596
+Casi Idéntico,842,6,196
+Transposicion,842,25004,2842596
+Aleatorio,843,27789,2849344
+Palindromo,843,28664,2849344
+Repetidos,843,37657,2849344
+Casi Idéntico,843,8,196
+Transposicion,843,25589,2849344
+Aleatorio,844,26389,2856100
+Palindromo,844,25964,2856100
+Repetidos,844,38333,2856100
+Casi Idéntico,844,6,196
+Transposicion,844,26388,2856100
+Aleatorio,845,27124,2862864
+Palindromo,845,26946,2862864
+Repetidos,845,39045,2862864
+Casi Idéntico,845,7,196
+Transposicion,845,24625,2862864
+Aleatorio,846,27626,2869636
+Palindromo,846,25084,2869636
+Repetidos,846,39324,2869636
+Casi Idéntico,846,5,196
+Transposicion,846,26122,2869636
+Aleatorio,847,25785,2876416
+Palindromo,847,25482,2876416
+Repetidos,847,39342,2876416
+Casi Idéntico,847,8,196
+Transposicion,847,25878,2876416
+Aleatorio,848,25353,2883204
+Palindromo,848,25544,2883204
+Repetidos,848,39610,2883204
+Casi Idéntico,848,5,196
+Transposicion,848,25560,2883204
+Aleatorio,849,26797,2890000
+Palindromo,849,26609,2890000
+Repetidos,849,41151,2890000
+Casi Idéntico,849,7,196
+Transposicion,849,25172,2890000
+Aleatorio,850,26465,2896804
+Palindromo,850,27395,2896804
+Repetidos,850,42026,2896804
+Casi Idéntico,850,10,196
+Transposicion,850,25573,2896804
+Aleatorio,851,26861,2903616
+Palindromo,851,25296,2903616
+Repetidos,851,39487,2903616
+Casi Idéntico,851,6,196
+Transposicion,851,25588,2903616
+Aleatorio,852,27574,2910436
+Palindromo,852,27760,2910436
+Repetidos,852,42457,2910436
+Casi Idéntico,852,7,196
+Transposicion,852,25226,2910436
+Aleatorio,853,25138,2917264
+Palindromo,853,27336,2917264
+Repetidos,853,40686,2917264
+Casi Idéntico,853,7,196
+Transposicion,853,26963,2917264
+Aleatorio,854,27162,2924100
+Palindromo,854,26316,2924100
+Repetidos,854,38909,2924100
+Casi Idéntico,854,6,196
+Transposicion,854,26969,2924100
+Aleatorio,855,27824,2930944
+Palindromo,855,26436,2930944
+Repetidos,855,40054,2930944
+Casi Idéntico,855,8,196
+Transposicion,855,26133,2930944
+Aleatorio,856,27183,2937796
+Palindromo,856,27042,2937796
+Repetidos,856,40756,2937796
+Casi Idéntico,856,5,196
+Transposicion,856,26360,2937796
+Aleatorio,857,27841,2944656
+Palindromo,857,27659,2944656
+Repetidos,857,42244,2944656
+Casi Idéntico,857,10,196
+Transposicion,857,25744,2944656
+Aleatorio,858,27017,2951524
+Palindromo,858,28118,2951524
+Repetidos,858,37921,2951524
+Casi Idéntico,858,4,196
+Transposicion,858,25738,2951524
+Aleatorio,859,27672,2958400
+Palindromo,859,26684,2958400
+Repetidos,859,40077,2958400
+Casi Idéntico,859,11,196
+Transposicion,859,25494,2958400
+Aleatorio,860,26421,2965284
+Palindromo,860,26218,2965284
+Repetidos,860,39390,2965284
+Casi Idéntico,860,6,196
+Transposicion,860,27577,2965284
+Aleatorio,861,27256,2972176
+Palindromo,861,25953,2972176
+Repetidos,861,39466,2972176
+Casi Idéntico,861,8,196
+Transposicion,861,25669,2972176
+Aleatorio,862,26319,2979076
+Palindromo,862,26120,2979076
+Repetidos,862,40776,2979076
+Casi Idéntico,862,5,196
+Transposicion,862,26920,2979076
+Aleatorio,863,27346,2985984
+Palindromo,863,26844,2985984
+Repetidos,863,41909,2985984
+Casi Idéntico,863,8,196
+Transposicion,863,26780,2985984
+Aleatorio,864,28118,2992900
+Palindromo,864,31031,2992900
+Repetidos,864,42683,2992900
+Casi Idéntico,864,6,196
+Transposicion,864,28968,2992900
+Aleatorio,865,27798,2999824
+Palindromo,865,29049,2999824
+Repetidos,865,42108,2999824
+Casi Idéntico,865,7,196
+Transposicion,865,26549,2999824
+Aleatorio,866,29703,3006756
+Palindromo,866,27225,3006756
+Repetidos,866,43243,3006756
+Casi Idéntico,866,5,196
+Transposicion,866,26816,3006756
+Aleatorio,867,25868,3013696
+Palindromo,867,26497,3013696
+Repetidos,867,43085,3013696
+Casi Idéntico,867,7,196
+Transposicion,867,26557,3013696
+Aleatorio,868,28607,3020644
+Palindromo,868,26547,3020644
+Repetidos,868,41228,3020644
+Casi Idéntico,868,5,196
+Transposicion,868,27787,3020644
+Aleatorio,869,28764,3027600
+Palindromo,869,28182,3027600
+Repetidos,869,43389,3027600
+Casi Idéntico,869,11,196
+Transposicion,869,27184,3027600
+Aleatorio,870,27351,3034564
+Palindromo,870,28783,3034564
+Repetidos,870,40585,3034564
+Casi Idéntico,870,5,196
+Transposicion,870,27536,3034564
+Aleatorio,871,28075,3041536
+Palindromo,871,29509,3041536
+Repetidos,871,39214,3041536
+Casi Idéntico,871,9,196
+Transposicion,871,28409,3041536
+Aleatorio,872,28209,3048516
+Palindromo,872,26957,3048516
+Repetidos,872,43696,3048516
+Casi Idéntico,872,5,196
+Transposicion,872,28116,3048516
+Aleatorio,873,28994,3055504
+Palindromo,873,29067,3055504
+Repetidos,873,40633,3055504
+Casi Idéntico,873,10,196
+Transposicion,873,26654,3055504
+Aleatorio,874,27867,3062500
+Palindromo,874,28981,3062500
+Repetidos,874,42614,3062500
+Casi Idéntico,874,5,196
+Transposicion,874,26221,3062500
+Aleatorio,875,27624,3069504
+Palindromo,875,26305,3069504
+Repetidos,875,41184,3069504
+Casi Idéntico,875,8,196
+Transposicion,875,27931,3069504
+Aleatorio,876,27590,3076516
+Palindromo,876,27578,3076516
+Repetidos,876,43090,3076516
+Casi Idéntico,876,5,196
+Transposicion,876,26974,3076516
+Aleatorio,877,28038,3083536
+Palindromo,877,28380,3083536
+Repetidos,877,43016,3083536
+Casi Idéntico,877,13,196
+Transposicion,877,28681,3083536
+Aleatorio,878,28756,3090564
+Palindromo,878,29615,3090564
+Repetidos,878,43365,3090564
+Casi Idéntico,878,5,196
+Transposicion,878,26679,3090564
+Aleatorio,879,27993,3097600
+Palindromo,879,29614,3097600
+Repetidos,879,45241,3097600
+Casi Idéntico,879,7,196
+Transposicion,879,25621,3097600
+Aleatorio,880,27236,3104644
+Palindromo,880,27613,3104644
+Repetidos,880,42295,3104644
+Casi Idéntico,880,6,196
+Transposicion,880,30910,3104644
+Aleatorio,881,29783,3111696
+Palindromo,881,28649,3111696
+Repetidos,881,41429,3111696
+Casi Idéntico,881,7,196
+Transposicion,881,27644,3111696
+Aleatorio,882,28021,3118756
+Palindromo,882,27946,3118756
+Repetidos,882,41982,3118756
+Casi Idéntico,882,5,196
+Transposicion,882,27495,3118756
+Aleatorio,883,28090,3125824
+Palindromo,883,27299,3125824
+Repetidos,883,40493,3125824
+Casi Idéntico,883,8,196
+Transposicion,883,27792,3125824
+Aleatorio,884,29377,3132900
+Palindromo,884,28475,3132900
+Repetidos,884,43192,3132900
+Casi Idéntico,884,5,196
+Transposicion,884,27895,3132900
+Aleatorio,885,28663,3139984
+Palindromo,885,27985,3139984
+Repetidos,885,42607,3139984
+Casi Idéntico,885,13,196
+Transposicion,885,27059,3139984
+Aleatorio,886,29751,3147076
+Palindromo,886,29638,3147076
+Repetidos,886,44480,3147076
+Casi Idéntico,886,5,196
+Transposicion,886,28654,3147076
+Aleatorio,887,30325,3154176
+Palindromo,887,29692,3154176
+Repetidos,887,43859,3154176
+Casi Idéntico,887,7,196
+Transposicion,887,27303,3154176
+Aleatorio,888,29696,3161284
+Palindromo,888,29639,3161284
+Repetidos,888,43347,3161284
+Casi Idéntico,888,5,196
+Transposicion,888,28712,3161284
+Aleatorio,889,28894,3168400
+Palindromo,889,29747,3168400
+Repetidos,889,43564,3168400
+Casi Idéntico,889,7,196
+Transposicion,889,28188,3168400
+Aleatorio,890,29173,3175524
+Palindromo,890,29213,3175524
+Repetidos,890,41393,3175524
+Casi Idéntico,890,6,196
+Transposicion,890,27982,3175524
+Aleatorio,891,28051,3182656
+Palindromo,891,29366,3182656
+Repetidos,891,43180,3182656
+Casi Idéntico,891,7,196
+Transposicion,891,27286,3182656
+Aleatorio,892,28434,3189796
+Palindromo,892,27874,3189796
+Repetidos,892,43541,3189796
+Casi Idéntico,892,5,196
+Transposicion,892,28800,3189796
+Aleatorio,893,28288,3196944
+Palindromo,893,27346,3196944
+Repetidos,893,42615,3196944
+Casi Idéntico,893,11,196
+Transposicion,893,27895,3196944
+Aleatorio,894,30863,3204100
+Palindromo,894,31749,3204100
+Repetidos,894,44792,3204100
+Casi Idéntico,894,5,196
+Transposicion,894,27299,3204100
+Aleatorio,895,29175,3211264
+Palindromo,895,29894,3211264
+Repetidos,895,42879,3211264
+Casi Idéntico,895,8,196
+Transposicion,895,27234,3211264
+Aleatorio,896,28309,3218436
+Palindromo,896,30482,3218436
+Repetidos,896,42706,3218436
+Casi Idéntico,896,5,196
+Transposicion,896,29632,3218436
+Aleatorio,897,30055,3225616
+Palindromo,897,27727,3225616
+Repetidos,897,41725,3225616
+Casi Idéntico,897,7,196
+Transposicion,897,28016,3225616
+Aleatorio,898,29668,3232804
+Palindromo,898,28903,3232804
+Repetidos,898,45879,3232804
+Casi Idéntico,898,5,196
+Transposicion,898,29092,3232804
+Aleatorio,899,28832,3240000
+Palindromo,899,28737,3240000
+Repetidos,899,42432,3240000
+Casi Idéntico,899,7,196
+Transposicion,899,29629,3240000
+Aleatorio,900,31099,3247204
+Palindromo,900,28478,3247204
+Repetidos,900,42006,3247204
+Casi Idéntico,900,6,196
+Transposicion,900,27730,3247204
+Aleatorio,901,29875,3254416
+Palindromo,901,31264,3254416
+Repetidos,901,44047,3254416
+Casi Idéntico,901,8,196
+Transposicion,901,29878,3254416
+Aleatorio,902,29984,3261636
+Palindromo,902,29974,3261636
+Repetidos,902,43222,3261636
+Casi Idéntico,902,5,196
+Transposicion,902,28571,3261636
+Aleatorio,903,30848,3268864
+Palindromo,903,29102,3268864
+Repetidos,903,43765,3268864
+Casi Idéntico,903,7,196
+Transposicion,903,27761,3268864
+Aleatorio,904,27844,3276100
+Palindromo,904,30042,3276100
+Repetidos,904,44202,3276100
+Casi Idéntico,904,6,196
+Transposicion,904,29681,3276100
+Aleatorio,905,28899,3283344
+Palindromo,905,32001,3283344
+Repetidos,905,43106,3283344
+Casi Idéntico,905,7,196
+Transposicion,905,28164,3283344
+Aleatorio,906,30226,3290596
+Palindromo,906,31405,3290596
+Repetidos,906,46164,3290596
+Casi Idéntico,906,6,196
+Transposicion,906,29365,3290596
+Aleatorio,907,28795,3297856
+Palindromo,907,29482,3297856
+Repetidos,907,45470,3297856
+Casi Idéntico,907,8,196
+Transposicion,907,29545,3297856
+Aleatorio,908,28826,3305124
+Palindromo,908,32629,3305124
+Repetidos,908,43154,3305124
+Casi Idéntico,908,4,196
+Transposicion,908,28071,3305124
+Aleatorio,909,29479,3312400
+Palindromo,909,31562,3312400
+Repetidos,909,44921,3312400
+Casi Idéntico,909,8,196
+Transposicion,909,30143,3312400
+Aleatorio,910,29977,3319684
+Palindromo,910,29130,3319684
+Repetidos,910,46463,3319684
+Casi Idéntico,910,5,196
+Transposicion,910,30132,3319684
+Aleatorio,911,31455,3326976
+Palindromo,911,31016,3326976
+Repetidos,911,45114,3326976
+Casi Idéntico,911,7,196
+Transposicion,911,29001,3326976
+Aleatorio,912,29650,3334276
+Palindromo,912,30697,3334276
+Repetidos,912,47440,3334276
+Casi Idéntico,912,6,196
+Transposicion,912,30566,3334276
+Aleatorio,913,31960,3341584
+Palindromo,913,29944,3341584
+Repetidos,913,43327,3341584
+Casi Idéntico,913,7,196
+Transposicion,913,30142,3341584
+Aleatorio,914,31880,3348900
+Palindromo,914,30398,3348900
+Repetidos,914,44233,3348900
+Casi Idéntico,914,5,196
+Transposicion,914,29787,3348900
+Aleatorio,915,31865,3356224
+Palindromo,915,31989,3356224
+Repetidos,915,50849,3356224
+Casi Idéntico,915,18,196
+Transposicion,915,28233,3356224
+Aleatorio,916,30981,3363556
+Palindromo,916,30135,3363556
+Repetidos,916,45919,3363556
+Casi Idéntico,916,5,196
+Transposicion,916,30484,3363556
+Aleatorio,917,30465,3370896
+Palindromo,917,29937,3370896
+Repetidos,917,45459,3370896
+Casi Idéntico,917,7,196
+Transposicion,917,29789,3370896
+Aleatorio,918,30018,3378244
+Palindromo,918,30598,3378244
+Repetidos,918,47008,3378244
+Casi Idéntico,918,5,196
+Transposicion,918,30509,3378244
+Aleatorio,919,31068,3385600
+Palindromo,919,29797,3385600
+Repetidos,919,45398,3385600
+Casi Idéntico,919,7,196
+Transposicion,919,30437,3385600
+Aleatorio,920,30480,3392964
+Palindromo,920,31724,3392964
+Repetidos,920,45225,3392964
+Casi Idéntico,920,5,196
+Transposicion,920,28945,3392964
+Aleatorio,921,30159,3400336
+Palindromo,921,30268,3400336
+Repetidos,921,44815,3400336
+Casi Idéntico,921,8,196
+Transposicion,921,30093,3400336
+Aleatorio,922,30687,3407716
+Palindromo,922,30370,3407716
+Repetidos,922,44230,3407716
+Casi Idéntico,922,5,196
+Transposicion,922,30038,3407716
+Aleatorio,923,31374,3415104
+Palindromo,923,31591,3415104
+Repetidos,923,45291,3415104
+Casi Idéntico,923,7,196
+Transposicion,923,30427,3415104
+Aleatorio,924,30998,3422500
+Palindromo,924,32905,3422500
+Repetidos,924,46955,3422500
+Casi Idéntico,924,5,196
+Transposicion,924,31965,3422500
+Aleatorio,925,30422,3429904
+Palindromo,925,32385,3429904
+Repetidos,925,45613,3429904
+Casi Idéntico,925,5,196
+Transposicion,925,31153,3429904
+Aleatorio,926,32214,3437316
+Palindromo,926,30623,3437316
+Repetidos,926,47926,3437316
+Casi Idéntico,926,5,196
+Transposicion,926,31813,3437316
+Aleatorio,927,32370,3444736
+Palindromo,927,32814,3444736
+Repetidos,927,46671,3444736
+Casi Idéntico,927,7,196
+Transposicion,927,31266,3444736
+Aleatorio,928,33603,3452164
+Palindromo,928,31940,3452164
+Repetidos,928,47057,3452164
+Casi Idéntico,928,4,196
+Transposicion,928,30071,3452164
+Aleatorio,929,31258,3459600
+Palindromo,929,31890,3459600
+Repetidos,929,47141,3459600
+Casi Idéntico,929,7,196
+Transposicion,929,28385,3459600
+Aleatorio,930,29819,3467044
+Palindromo,930,32210,3467044
+Repetidos,930,47359,3467044
+Casi Idéntico,930,10,196
+Transposicion,930,30953,3467044
+Aleatorio,931,32377,3474496
+Palindromo,931,31090,3474496
+Repetidos,931,46817,3474496
+Casi Idéntico,931,7,196
+Transposicion,931,32854,3474496
+Aleatorio,932,33282,3481956
+Palindromo,932,34445,3481956
+Repetidos,932,48433,3481956
+Casi Idéntico,932,5,196
+Transposicion,932,32514,3481956
+Aleatorio,933,30806,3489424
+Palindromo,933,35190,3489424
+Repetidos,933,49342,3489424
+Casi Idéntico,933,8,196
+Transposicion,933,30182,3489424
+Aleatorio,934,32313,3496900
+Palindromo,934,32239,3496900
+Repetidos,934,49516,3496900
+Casi Idéntico,934,5,196
+Transposicion,934,31238,3496900
+Aleatorio,935,32214,3504384
+Palindromo,935,31688,3504384
+Repetidos,935,45880,3504384
+Casi Idéntico,935,6,196
+Transposicion,935,31875,3504384
+Aleatorio,936,33031,3511876
+Palindromo,936,32331,3511876
+Repetidos,936,46799,3511876
+Casi Idéntico,936,6,196
+Transposicion,936,31570,3511876
+Aleatorio,937,31489,3519376
+Palindromo,937,35246,3519376
+Repetidos,937,49880,3519376
+Casi Idéntico,937,7,196
+Transposicion,937,31373,3519376
+Aleatorio,938,31922,3526884
+Palindromo,938,32304,3526884
+Repetidos,938,44419,3526884
+Casi Idéntico,938,5,196
+Transposicion,938,31580,3526884
+Aleatorio,939,34474,3534400
+Palindromo,939,33263,3534400
+Repetidos,939,47836,3534400
+Casi Idéntico,939,7,196
+Transposicion,939,32856,3534400
+Aleatorio,940,33923,3541924
+Palindromo,940,33164,3541924
+Repetidos,940,49810,3541924
+Casi Idéntico,940,5,196
+Transposicion,940,30332,3541924
+Aleatorio,941,36179,3549456
+Palindromo,941,32488,3549456
+Repetidos,941,48191,3549456
+Casi Idéntico,941,6,196
+Transposicion,941,32571,3549456
+Aleatorio,942,30677,3556996
+Palindromo,942,33352,3556996
+Repetidos,942,53525,3556996
+Casi Idéntico,942,5,196
+Transposicion,942,30895,3556996
+Aleatorio,943,31069,3564544
+Palindromo,943,31885,3564544
+Repetidos,943,51431,3564544
+Casi Idéntico,943,7,196
+Transposicion,943,31725,3564544
+Aleatorio,944,33157,3572100
+Palindromo,944,32741,3572100
+Repetidos,944,49695,3572100
+Casi Idéntico,944,4,196
+Transposicion,944,31622,3572100
+Aleatorio,945,32479,3579664
+Palindromo,945,34853,3579664
+Repetidos,945,49883,3579664
+Casi Idéntico,945,8,196
+Transposicion,945,32525,3579664
+Aleatorio,946,32732,3587236
+Palindromo,946,33419,3587236
+Repetidos,946,50161,3587236
+Casi Idéntico,946,6,196
+Transposicion,946,31960,3587236
+Aleatorio,947,33517,3594816
+Palindromo,947,31274,3594816
+Repetidos,947,48193,3594816
+Casi Idéntico,947,7,196
+Transposicion,947,32482,3594816
+Aleatorio,948,34913,3602404
+Palindromo,948,33361,3602404
+Repetidos,948,47797,3602404
+Casi Idéntico,948,5,196
+Transposicion,948,32459,3602404
+Aleatorio,949,32992,3610000
+Palindromo,949,31843,3610000
+Repetidos,949,50276,3610000
+Casi Idéntico,949,8,196
+Transposicion,949,31458,3610000
+Aleatorio,950,34098,3617604
+Palindromo,950,34091,3617604
+Repetidos,950,48155,3617604
+Casi Idéntico,950,5,196
+Transposicion,950,33011,3617604
+Aleatorio,951,33303,3625216
+Palindromo,951,35485,3625216
+Repetidos,951,49491,3625216
+Casi Idéntico,951,6,196
+Transposicion,951,32648,3625216
+Aleatorio,952,35207,3632836
+Palindromo,952,36166,3632836
+Repetidos,952,47850,3632836
+Casi Idéntico,952,6,196
+Transposicion,952,31514,3632836
+Aleatorio,953,32071,3640464
+Palindromo,953,32836,3640464
+Repetidos,953,50098,3640464
+Casi Idéntico,953,7,196
+Transposicion,953,31666,3640464
+Aleatorio,954,38836,3648100
+Palindromo,954,32956,3648100
+Repetidos,954,48783,3648100
+Casi Idéntico,954,5,196
+Transposicion,954,31598,3648100
+Aleatorio,955,32860,3655744
+Palindromo,955,32564,3655744
+Repetidos,955,49905,3655744
+Casi Idéntico,955,7,196
+Transposicion,955,33679,3655744
+Aleatorio,956,34235,3663396
+Palindromo,956,32537,3663396
+Repetidos,956,46581,3663396
+Casi Idéntico,956,5,196
+Transposicion,956,31423,3663396
+Aleatorio,957,33366,3671056
+Palindromo,957,32951,3671056
+Repetidos,957,48869,3671056
+Casi Idéntico,957,7,196
+Transposicion,957,32533,3671056
+Aleatorio,958,32198,3678724
+Palindromo,958,32919,3678724
+Repetidos,958,51294,3678724
+Casi Idéntico,958,6,196
+Transposicion,958,31568,3678724
+Aleatorio,959,32443,3686400
+Palindromo,959,32730,3686400
+Repetidos,959,48240,3686400
+Casi Idéntico,959,6,196
+Transposicion,959,32564,3686400
+Aleatorio,960,36077,3694084
+Palindromo,960,33765,3694084
+Repetidos,960,51033,3694084
+Casi Idéntico,960,5,196
+Transposicion,960,33223,3694084
+Aleatorio,961,35113,3701776
+Palindromo,961,32163,3701776
+Repetidos,961,48524,3701776
+Casi Idéntico,961,6,196
+Transposicion,961,33353,3701776
+Aleatorio,962,33751,3709476
+Palindromo,962,33211,3709476
+Repetidos,962,49667,3709476
+Casi Idéntico,962,5,196
+Transposicion,962,32254,3709476
+Aleatorio,963,34381,3717184
+Palindromo,963,34136,3717184
+Repetidos,963,49582,3717184
+Casi Idéntico,963,8,196
+Transposicion,963,33509,3717184
+Aleatorio,964,34017,3724900
+Palindromo,964,35731,3724900
+Repetidos,964,55555,3724900
+Casi Idéntico,964,6,196
+Transposicion,964,34550,3724900
+Aleatorio,965,35592,3732624
+Palindromo,965,37144,3732624
+Repetidos,965,52252,3732624
+Casi Idéntico,965,9,196
+Transposicion,965,32857,3732624
+Aleatorio,966,35228,3740356
+Palindromo,966,32246,3740356
+Repetidos,966,48148,3740356
+Casi Idéntico,966,6,196
+Transposicion,966,34040,3740356
+Aleatorio,967,33252,3748096
+Palindromo,967,34329,3748096
+Repetidos,967,50771,3748096
+Casi Idéntico,967,8,196
+Transposicion,967,33133,3748096
+Aleatorio,968,34507,3755844
+Palindromo,968,33942,3755844
+Repetidos,968,48583,3755844
+Casi Idéntico,968,6,196
+Transposicion,968,32634,3755844
+Aleatorio,969,32540,3763600
+Palindromo,969,34162,3763600
+Repetidos,969,51285,3763600
+Casi Idéntico,969,18,196
+Transposicion,969,34739,3763600
+Aleatorio,970,34172,3771364
+Palindromo,970,33781,3771364
+Repetidos,970,50056,3771364
+Casi Idéntico,970,6,196
+Transposicion,970,34183,3771364
+Aleatorio,971,36354,3779136
+Palindromo,971,32815,3779136
+Repetidos,971,47092,3779136
+Casi Idéntico,971,12,196
+Transposicion,971,31964,3779136
+Aleatorio,972,33489,3786916
+Palindromo,972,34632,3786916
+Repetidos,972,53301,3786916
+Casi Idéntico,972,7,196
+Transposicion,972,31417,3786916
+Aleatorio,973,35027,3794704
+Palindromo,973,33391,3794704
+Repetidos,973,49919,3794704
+Casi Idéntico,973,12,196
+Transposicion,973,32769,3794704
+Aleatorio,974,35259,3802500
+Palindromo,974,34744,3802500
+Repetidos,974,51101,3802500
+Casi Idéntico,974,5,196
+Transposicion,974,33609,3802500
+Aleatorio,975,35841,3810304
+Palindromo,975,33526,3810304
+Repetidos,975,50907,3810304
+Casi Idéntico,975,6,196
+Transposicion,975,32970,3810304
+Aleatorio,976,34413,3818116
+Palindromo,976,34518,3818116
+Repetidos,976,56697,3818116
+Casi Idéntico,976,5,196
+Transposicion,976,36649,3818116
+Aleatorio,977,38115,3825936
+Palindromo,977,40175,3825936
+Repetidos,977,61055,3825936
+Casi Idéntico,977,8,196
+Transposicion,977,37181,3825936
+Aleatorio,978,36031,3833764
+Palindromo,978,42882,3833764
+Repetidos,978,52536,3833764
+Casi Idéntico,978,6,196
+Transposicion,978,35609,3833764
+Aleatorio,979,35735,3841600
+Palindromo,979,35676,3841600
+Repetidos,979,52324,3841600
+Casi Idéntico,979,8,196
+Transposicion,979,34963,3841600
+Aleatorio,980,38471,3849444
+Palindromo,980,35399,3849444
+Repetidos,980,51542,3849444
+Casi Idéntico,980,6,196
+Transposicion,980,35248,3849444
+Aleatorio,981,37164,3857296
+Palindromo,981,35457,3857296
+Repetidos,981,54883,3857296
+Casi Idéntico,981,10,196
+Transposicion,981,36381,3857296
+Aleatorio,982,40449,3865156
+Palindromo,982,35648,3865156
+Repetidos,982,56285,3865156
+Casi Idéntico,982,7,196
+Transposicion,982,36144,3865156
+Aleatorio,983,37639,3873024
+Palindromo,983,35489,3873024
+Repetidos,983,53878,3873024
+Casi Idéntico,983,12,196
+Transposicion,983,33934,3873024
+Aleatorio,984,36479,3880900
+Palindromo,984,36094,3880900
+Repetidos,984,50434,3880900
+Casi Idéntico,984,15,196
+Transposicion,984,35703,3880900
+Aleatorio,985,35698,3888784
+Palindromo,985,35939,3888784
+Repetidos,985,51730,3888784
+Casi Idéntico,985,9,196
+Transposicion,985,34057,3888784
+Aleatorio,986,35726,3896676
+Palindromo,986,36015,3896676
+Repetidos,986,54394,3896676
+Casi Idéntico,986,5,196
+Transposicion,986,34344,3896676
+Aleatorio,987,36123,3904576
+Palindromo,987,34769,3904576
+Repetidos,987,55138,3904576
+Casi Idéntico,987,8,196
+Transposicion,987,35080,3904576
+Aleatorio,988,36065,3912484
+Palindromo,988,37071,3912484
+Repetidos,988,53298,3912484
+Casi Idéntico,988,6,196
+Transposicion,988,35786,3912484
+Aleatorio,989,36241,3920400
+Palindromo,989,36440,3920400
+Repetidos,989,52927,3920400
+Casi Idéntico,989,9,196
+Transposicion,989,34187,3920400
+Aleatorio,990,37177,3928324
+Palindromo,990,38347,3928324
+Repetidos,990,58087,3928324
+Casi Idéntico,990,6,196
+Transposicion,990,37696,3928324
+Aleatorio,991,37974,3936256
+Palindromo,991,39149,3936256
+Repetidos,991,57297,3936256
+Casi Idéntico,991,9,196
+Transposicion,991,37591,3936256
+Aleatorio,992,44317,3944196
+Palindromo,992,39073,3944196
+Repetidos,992,57447,3944196
+Casi Idéntico,992,6,196
+Transposicion,992,38462,3944196
+Aleatorio,993,36991,3952144
+Palindromo,993,36652,3952144
+Repetidos,993,59247,3952144
+Casi Idéntico,993,7,196
+Transposicion,993,39242,3952144
+Aleatorio,994,38624,3960100
+Palindromo,994,38064,3960100
+Repetidos,994,55441,3960100
+Casi Idéntico,994,5,196
+Transposicion,994,33985,3960100
+Aleatorio,995,36878,3968064
+Palindromo,995,35903,3968064
+Repetidos,995,54021,3968064
+Casi Idéntico,995,7,196
+Transposicion,995,35111,3968064
+Aleatorio,996,33860,3976036
+Palindromo,996,35512,3976036
+Repetidos,996,55816,3976036
+Casi Idéntico,996,6,196
+Transposicion,996,35569,3976036
+Aleatorio,997,37789,3984016
+Palindromo,997,38356,3984016
+Repetidos,997,57697,3984016
+Casi Idéntico,997,9,196
+Transposicion,997,35661,3984016
+Aleatorio,998,38033,3992004
+Palindromo,998,37364,3992004
+Repetidos,998,56253,3992004
+Casi Idéntico,998,7,196
+Transposicion,998,34669,3992004
+Aleatorio,999,38161,4000000
+Palindromo,999,36677,4000000
+Repetidos,999,52030,4000000
+Casi Idéntico,999,7,196
+Transposicion,999,34346,4000000
+Aleatorio,1000,36133,4008004
+Palindromo,1000,38397,4008004
+Repetidos,1000,55397,4008004
+Casi Idéntico,1000,5,196
+Transposicion,1000,34209,4008004
