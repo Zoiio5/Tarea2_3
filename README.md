@@ -27,5 +27,5 @@ Este repositorio contiene el código fuente y los scripts necesarios para realiz
 ### Clonar el Repositorio
 1. Abre una terminal y ejecuta:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/Zoiio5/Tarea2_3.git
+   cd Tarea2_3
