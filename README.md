@@ -37,32 +37,3 @@ Abre el proyecto en CLion. El archivo CMakeLists.txt configurará automáticamen
 ## Compilación del Proyecto
 1. Abre el proyecto en CLion o utiliza una terminal con CMake configurado.
 Ejecuta el comando para compilar:
-```bash
-
-cmake --build .
-Los ejecutables se generarán en la carpeta cmake-build-debug (o similar).
-Ejecución del Proyecto
-Algoritmos en C++
-Navega a la carpeta donde se generaron los ejecutables:
-  ```bash
-
-  cd cmake-build-debug
-Ejecuta el programa deseado:
-bash
-Copiar código
-./nombre_del_programa
-Por ejemplo:
-
-  ```bash
-
-  ./algoritmo_fb
-Procesamiento y Visualización en Python
-Asegúrate de que el entorno virtual esté activado.
-Ejecuta el script de procesamiento de datos:
-bash
-Copiar código
-python procesar_datos.py
-Genera las gráficas correspondientes:
-bash
-Copiar código
-python graficar_resultados.py
