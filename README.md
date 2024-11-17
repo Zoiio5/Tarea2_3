@@ -34,6 +34,4 @@ Instala CLion u otro IDE compatible con CMake.
 Asegúrate de tener instalado el compilador MSVC o cualquier compatible con C++17.
 Abre el proyecto en CLion. El archivo CMakeLists.txt configurará automáticamente el entorno.
 
-## Compilación del Proyecto
-1. Abre el proyecto en CLion o utiliza una terminal con CMake configurado.
-Ejecuta el comando para compilar:
+
