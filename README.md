@@ -29,3 +29,7 @@ Este repositorio contiene el código fuente y los scripts necesarios para realiz
    ```bash
    git clone https://github.com/Zoiio5/Tarea2_3.git
    cd Tarea2_3
+##Configuración del Entorno C++
+Instala CLion u otro IDE compatible con CMake.
+Asegúrate de tener instalado el compilador MSVC o cualquier compatible con C++17.
+Abre el proyecto en CLion. El archivo CMakeLists.txt configurará automáticamente el entorno.
