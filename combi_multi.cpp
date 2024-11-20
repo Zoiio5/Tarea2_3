@@ -63,7 +63,7 @@ int distanciaMinimaDP(const string &s1, const string &s2) {
     return dp[m][n];
 }
 
-// Generador de cadenas aleatorias
+
 string generarCadenaAleatoria(int longitud) {
     const string caracteres = "abcdefghijklmnopqrstuvwxyz ";
     random_device rd;
