@@ -102,7 +102,7 @@ string generarCadenaTransposicion(int longitud) {
 }
 
 int main() {
-    ofstream archivo("resultados_varios_largos.csv");
+    ofstream archivo("resultados_multi.csv");
     archivo << "Caso,Tamaño_m,Tamaño_n,TiempoFB (ns),Resultado FB,TiempoDP (ns),Resultado DP\n";
 
     vector<string> tipos = {"Aleatorio", "Palindromo", "Repetidos", "Casi Identico", "Transposicion"};
@@ -152,7 +152,7 @@ int main() {
     }
 
     archivo.close();
-    cout << "Resultados guardados en 'resultados_varios_largos.csv'." << endl;
+    cout << "Resultados guardados en 'resultados_multi.csv'." << endl;
 
     return 0;
 }
