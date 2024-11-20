@@ -41,5 +41,10 @@ Abre el proyecto en CLion. El archivo CMakeLists.txt configurará automáticamen
 - FB.h
 - PD.cpp
 - PD.h
+- Comparacion_multi.py
+- comparacion_m=n.py
+- dp_grafico.py
+- fb_graficos.py
+- porseparado.py
 
 
