@@ -35,16 +35,11 @@ Asegúrate de tener instalado el compilador MSVC o cualquier compatible con C++1
 Abre el proyecto en CLion. El archivo CMakeLists.txt configurará automáticamente el entorno.
 
 ### Descripcion de archivos
-- combi_m=n.cpp
-- combi_multi.cpp
-- FB.cpp
-- FB.h
-- PD.cpp
-- PD.h
-- Comparacion_multi.py
-- comparacion_m=n.py
-- dp_grafico.py
-- fb_graficos.py
-- porseparado.py
+- combi_m=n.cpp: hace recopilación de los datos cuando los lagos de string son iguales en ambos algoritmos, fb y dp.
+- combi_multi.cpp: hace recopilación de los datos de distintos largos de los string en ambos algoritmos, fb y dp.
+- FB.cpp: hace recopilación de datos de mismo largo con solo el algoritmos FB.
+- FB.h: headers de FB.
+- PD.cpp:hace recopilación de datos de mismo largo en un solo algoritmo DP.
+- PD.h: headers de DP.
 
 
