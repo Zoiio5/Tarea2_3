@@ -9,13 +9,13 @@
 using namespace std;
 using namespace chrono;
 
-// Funciones de costos para cada operación
+
 int costo_sub(char a, char b) { return (a == b) ? 0 : 2; }
 int costo_insertar(char b) { return 1; }
 int costo_eliminar(char a) { return 1; }
 int costo_trans(char a, char b) { return 1; }
 
-// Algoritmo de fuerza bruta
+
 int distanciaMinimaFB(const string &s1, const string &s2, int i, int j) {
     if (i == s1.length()) return (s2.length() - j) * costo_insertar(' ');
     if (j == s2.length()) return (s1.length() - i) * costo_eliminar(' ');
@@ -37,7 +37,7 @@ int distanciaMinimaFB(const string &s1, const string &s2, int i, int j) {
     return costo_min;
 }
 
-// Algoritmo de programación dinámica
+
 int distanciaMinimaDP(const string &s1, const string &s2) {
     int m = s1.length();
     int n = s2.length();
@@ -63,7 +63,7 @@ int distanciaMinimaDP(const string &s1, const string &s2) {
     return dp[m][n];
 }
 
-// Generador de cadenas aleatorias
+
 string generarCadena(int longitud) {
     const string caracteres = "abcdefghijklmnopqrstuvwxyz ";
     random_device rd;
@@ -77,7 +77,7 @@ string generarCadena(int longitud) {
     return resultado;
 }
 
-// Generador de palíndromos
+
 string generarPalindromo(int longitud) {
     string mitad = generarCadena(longitud / 2);
     string palindromo = mitad;
@@ -87,12 +87,12 @@ string generarPalindromo(int longitud) {
     return palindromo;
 }
 
-// Generador de caracteres repetidos
+
 string generarCaracteresRepetidos(int longitud, char c) {
     return string(longitud, c);
 }
 
-// Generador de transposición
+
 string generarTransposicion(string s) {
     if (s.length() > 1) swap(s[0], s[1]);
     return s;
@@ -124,13 +124,12 @@ int main() {
                 s2 = generarTransposicion(s1);
             }
 
-            // Ejecución del algoritmo de fuerza bruta
             auto inicio_fb = high_resolution_clock::now();
             int resultado_fb = distanciaMinimaFB(s1, s2, 0, 0);
             auto fin_fb = high_resolution_clock::now();
             auto duracion_fb = duration_cast<nanoseconds>(fin_fb - inicio_fb).count();
 
-            // Ejecución del algoritmo de programación dinámica
+
             auto inicio_dp = high_resolution_clock::now();
             int resultado_dp = distanciaMinimaDP(s1, s2);
             auto fin_dp = high_resolution_clock::now();
