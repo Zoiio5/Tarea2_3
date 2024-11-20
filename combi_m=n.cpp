@@ -99,7 +99,7 @@ string generarTransposicion(string s) {
 }
 
 int main() {
-    ofstream archivo("resultados.csv");
+    ofstream archivo("resultados_m=n.csv");
     archivo << "Caso,Tamaño,TiempoFB (ns),Resultado FB,TiempoDP (ns),Resultado DP\n";
 
     vector<string> tipos = {"Aleatorio", "Palindromo", "Repetidos", "Casi Identico", "Transposicion"};
@@ -145,7 +145,7 @@ int main() {
     }
 
     archivo.close();
-    cout << "Resultados guardados en 'resultados.csv'." << endl;
+    cout << "Resultados guardados en 'resultados_m=n.csv'." << endl;
 
     return 0;
 }
